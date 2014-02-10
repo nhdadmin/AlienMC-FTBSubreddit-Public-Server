@@ -19,7 +19,7 @@ Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server
 
 *IRC Channel:* [#ftbsubredditserver (Freenode)](http://goo.gl/0kdOD)
 
-*Github:* https://github.com/FTBSubredditServer (Hint: You're on it)
+*Github:* https://github.com/FTBSubredditServer *(Hint: You're on it)*
 
 ---
 
