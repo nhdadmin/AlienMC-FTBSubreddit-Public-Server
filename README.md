@@ -1,15 +1,10 @@
-FTBSubredditServer2014
+[FTB Subreddit Public Server](http://www.reddit.com/r/FTBSubredditServe)
 ======================
 
-[r/FeedTheBeast](http://goo.gl/eLroz)
-
-[r/FeedTheBeastServers](http://goo.gl/TPblo)
-
-[r/FeedTheBeastCrashes](http://goo.gl/NN1Ul)
 
 ---
 
-*This server is in no way affiliated with the developers of the Feed The Beast Mod Pack. Should you have any questions or concerns please message the mods over at /r/FTBSubredditServer*
+*This server is in no way affiliated with the developers of the Feed The Beast Mod Pack. Should you have any questions or concerns please message the mods over at [/r/FTBSubredditServer](http://www.reddit.com/r/feedthebeast)*
 
 ---
 
@@ -17,7 +12,7 @@ FTBSubredditServer2014
 
 *Server address:* ftb.alienmc.co
 
-*FTB Pack:* Unleashed 1.1.2
+*FTB Pack:* TPPI 0.2.1
 
 *Mumble address:* [ftb.alienmc.co](mumble://ftb.alienmc.co)
 
