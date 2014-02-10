@@ -1,27 +1,26 @@
-[FTB Subreddit Public Server](http://www.reddit.com/r/FTBSubredditServe)
-======================
+FTB Subreddit Server 2014
+===
 
-
----
-
-*This server is in no way affiliated with the developers of the Feed The Beast Mod Pack. Should you have any questions or concerns please message the mods over at [/r/FTBSubredditServer](http://www.reddit.com/r/feedthebeast)*
+Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server's Github
 
 ---
 
 **r/FeedTheBeast Server Info**
 
-*Server address:* ftb.alienmc.co
+*FTB Subreddit Server Reddit:* [/r/FTBSubredditServer](http://FTBSubredditServer.reddit.com)
 
-*FTB Pack:* TPPI 0.2.1
+*Server address:* ftb.alienmc.co - *Port:* 25565 (Defualt)
+
+*FTB Pack:* [Test Pack, Please Ignore (TPPI) - v0.2.1](http://TestPackPleaseIgnore.reddit.com)
 
 *Mumble address:* [ftb.alienmc.co](mumble://ftb.alienmc.co)
 
 *Website:* http://alienmc.co/
 
-*IRC Channel:* [#ftbsubredditserver](http://goo.gl/0kdOD)
+*IRC Channel:* [#ftbsubredditserver (Freenode)](http://goo.gl/0kdOD)
 
-
+*Github:* https://github.com/FTBSubredditServer (Hint: You're on it)
 
 ---
 
-[This server is in no way affiliated with the developers of the Feed The Beast Mod Pack.](http://goo.gl/xddgna)
+*This server is in no way affiliated with the developers of the Feed The Beast Mod Pack. Should you have any questions or concerns please message the mods over at /r/FTBSubredditServer*
