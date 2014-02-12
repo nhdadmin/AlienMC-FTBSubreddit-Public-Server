@@ -1,6 +1,5 @@
 <h1> Server Rules</h1>
 
-<hr>
 <ol>
 
   <li> <b>NO</b> - Hacking, glitching, exploiting (If you find a bug or exploit, please contact one of the admins immediatly) </li>
