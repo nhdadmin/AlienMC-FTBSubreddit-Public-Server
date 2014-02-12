@@ -23,3 +23,8 @@ Server Rules
 11. Admins hold the right to ban users on a case by case basis if any of these rules are broken
 
 12. Have Fun!
+
+<ol>
+  <li> Test </li>
+  <li> Test </li>
+</ol>
