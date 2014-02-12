@@ -1,4 +1,4 @@
-<h1> Server Rules
+<h1> Server Rules</h1>
 <hr>
 
 <ol>
