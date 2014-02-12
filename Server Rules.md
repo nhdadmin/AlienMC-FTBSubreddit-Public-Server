@@ -1,5 +1,5 @@
-Server Rules
----
+<h1> Server Rules
+<hr>
 
 <ol>
 
