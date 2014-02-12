@@ -3,23 +3,23 @@ Server Rules
 
 <ol>
 
-  <li> NO - Hacking, glitching, exploiting (If you find a bug or exploit, please contact one of the admins immediatly) </li>
+  <li> <b>NO</b> - Hacking, glitching, exploiting (If you find a bug or exploit, please contact one of the admins immediatly) </li>
 
-  <li> NO - CC programs that create an infinite loop with out a sleep function </li>
+  <li> <b>NO</b> - CC programs that create an infinite loop with out a sleep function </li>
 
-  <li> NO - TPS checking </li>
+  <li> <b>NO</b> - TPS checking </li>
 
-  <li> NO - Griefing </li>
+  <li> <b>NO</b> - Griefing </li>
 
-  <li> NO - Use or possession of [banned items](http://goo.gl/GUoQOw) </li>
+  <li> <b>NO</b> - Use or possession of <b><a href="http://goo.gl/GUoQOw">Banned Items</a></b> </li>
 
-  <li> NO - Pumping in the Nether </li>
+  <li> <b>NO</b> - Pumping in the Nether </li>
 
-  <li> NO - Automated mining in the Overworld, The End or The Twilight Forest </li>
+  <li> <b>NO</b> - Automated mining in the Overworld, The End or The Twilight Forest </li>
 
-  <li> NO - Entity stroage (Make sure your farms don't back up!) </li>
+  <li> <b>NO</b> - Entity stroage (Make sure your farms don't back up!) </li>
 
-  <li> NO - Asking for OP, you will not get it </li>
+  <li> <b>NO</b> - Asking for OP, you will not get it </li>
 
   <li> Have common sense </li>
 
