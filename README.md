@@ -7,7 +7,7 @@ Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server
 
 **r/FeedTheBeast Server Info**
 
-*FTB Subreddit Server Reddit:* [/r/FTBSubredditServer](http://FTBSubredditServer.reddit.com)
+*FTB Subreddit Server Reddit:* [/r/AlienMC](http://www.reddit.com/r/alienmc)
 
 *Server address:* ftb.alienmc.co - *Port:* 25565 (Defualt)
 
@@ -19,8 +19,8 @@ Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server
 
 *IRC Channel:* [#ftbsubredditserver (Freenode)](http://goo.gl/0kdOD)
 
-*Github:* https://github.com/FTBSubredditServer *(Hint: You're on it)*
+*Github:* https://github.com/AlienMC *(Hint: You're on it)*
 
 ---
 
-*This server is in no way affiliated with the developers of the Feed The Beast Mod Pack. Should you have any questions or concerns please message the mods over at /r/FTBSubredditServer*
+*This server is in no way affiliated with the developers of the Feed The Beast Mod Pack.
