@@ -1,4 +1,4 @@
-FTB Subreddit Server 2014
+AlienMC - /r/FTB's Public Server
 ===
 
 Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server's Github
@@ -7,7 +7,7 @@ Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server
 
 **r/FeedTheBeast Server Info**
 
-*FTB Subreddit Server Reddit:* [/r/AlienMC](http://www.reddit.com/r/alienmc)
+*AlienMC Subreddit:* [/r/AlienMC](http://www.reddit.com/r/alienmc)
 
 *Server address:* ftb.alienmc.co - *Port:* 25565 (Defualt)
 
@@ -17,7 +17,7 @@ Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server
 
 *Website:* http://alienmc.co/
 
-*IRC Channel:* [#ftbsubredditserver (Freenode)](http://goo.gl/0kdOD)
+*IRC Channel:* [#AlienMC (Freenode)](http://goo.gl/uf3Dou)
 
 *Github:* https://github.com/AlienMC *(Hint: You're on it)*
 
