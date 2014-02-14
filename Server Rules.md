@@ -16,7 +16,7 @@
 
   <li> <b>NO</b> - Automated mining in the Overworld, The End or The Twilight Forest </li>
 
-  <li> <b>NO</b> - Entity strorage (Make sure your farms don't back up!) </li>
+  <li> <b>NO</b> - Entity storage (Make sure your farms don't back up!) </li>
 
   <li> <b>NO</b> - Asking for OP, you will not get it </li>
 
