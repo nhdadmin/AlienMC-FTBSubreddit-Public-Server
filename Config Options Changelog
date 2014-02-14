@@ -37,9 +37,9 @@ biomesoplenty
 	main
 		N/C
 	misc
-		N/C
+		Smoothings Changed to 5
 	terraigen
-		N/C
+		Biome Size 5
 buildcraft
 	main
 		Line 125 changed from S:pumping.controlList=+/*/*,+/-1/lava to S:pumping.controlList=+/*/*,-/-1/lava to disable lava pumping in the nether
@@ -59,6 +59,7 @@ CoFH
 		Line 26 B:WitherSkeletonsDropHeads=false 
 			*left alone but should we change it to true so they drop?			
 	CoFHasquerade
+		B:AllowEveryone=true changed to B:AllowEveryone=false, both places
 		Line 20 B:AllowOpsToSetOthers=False changed to B:AllowOpsToSetOthers=True
 		Line 35 B:AllowOpsToSetOthers=False to B:AllowOpsToSetOthers=True
 	CoFHasquerade-Capes
@@ -79,6 +80,7 @@ CoFH
 		Line 26 B:WitherSkeletonsDropHeads=false 
 			*left alone but should we change it to true so they drop?
 	Masquerade
+		B:AllowEveryone=true changed to B:AllowEveryone=false, both places
 		Line 20 B:AllowOpsToSetOthers=False changed to B:AllowOpsToSetOthers=True
 		Line 35 B:AllowOpsToSetOthers=False to B:AllowOpsToSetOthers=True
 	RedstoneArsenal
@@ -196,7 +198,8 @@ GregTech
 	BlockItemIDs
 		N/C
 	DynamicConfig
-		line 3382 B:mininglaser_true=true to B:mininglaser_true=false
+		XXX line 3382 B:mininglaser_true=true to B:mininglaser_true=false
+		UNDID THIS CHANGE^ Why are we letting them get easy mining lasers?
 		line 5820 B:DragonEggEnergySiphon.AllowMultipleEggs_false=false to B:DragonEggEnergySiphon.AllowMultipleEggs_false=true
 	GregTech
 		line 34 B:AFK_Hunger=false to B:AFK_Hunger=true
@@ -277,6 +280,12 @@ mystcraft
 		N/C
 	symbols
 		line 278 B:denseores.enabled=true to B:denseores.enabled=false
+		B:modmat_tile.orecoal.enabled=false
+		B:modmat_tile.orediamond.enabled=false
+		B:modmat_tile.oregold.enabled=false
+		B:modmat_tile.oreiron.enabled=false
+		B:modmat_tile.netherquartz.enabled=false
+
 powercrystals
 	core
 		client
@@ -292,8 +301,9 @@ powercrystals
 			line 98 B:PlaySounds=true to B:PlaySounds=false
 			line 110 B:Road.Slippery=true to B:Road.Slippery=false
 			line 170 B:WorldGen.SacredRubberSapling=true to B:WorldGen.SacredRubberSapling=false
-			line 289 B:BlockBreaker.Recipe.Enabled=true to B:BlockBreaker.Recipe.Enabled=false
-			line 291 B:BlockPlacer.Recipe.Enabled=true to B:BlockPlacer.Recipe.Enabled=false
+			XXX line 289 B:BlockBreaker.Recipe.Enabled=true to B:BlockBreaker.Recipe.Enabled=false
+			XXX line 291 B:BlockPlacer.Recipe.Enabled=true to B:BlockPlacer.Recipe.Enabled=false
+			^^^ Removed these 2 because first block around chunk declared nonsafe
 			line 353 B:EnableGregTechRecipes=false to B:EnableGregTechRecipes=true
 			line 356 B:EnableThermalExpansionRecipes=true to B:EnableThermalExpansionRecipes=false
 	netherores
@@ -306,7 +316,8 @@ railcraft
 		line 14 B:chunk.loading=true to B:chunk.loading=false
 	railcraft
 		line 11 B:craftable=true to B:craftable=false
-		line 18 B:delete.anchors=false to B:delete.anchors=true
+		XXX line 18 B:delete.anchors=false to B:delete.anchors=true
+		^ This is a per session variable, doesn't persist.
 		line 38 B:personal.craftable=true to B:personal.craftable=false
 		line 125 B:cart.tnt=true to B:cart.tnt=false
 		line 126 B:cart.tnt.wood=true to B:cart.tnt.wood=false
@@ -353,7 +364,7 @@ ThaumcraftMobAspects
 TPPI
 	TPPITweaks
 		line 12 B:enderPouchTesseract=false to B:enderPouchTesseract=true
-		line 15 B:enderTankTesseract=false to B:enderTankTesseract=true
+		Tank requiring is now default
 Tropicraft
 	Misc
 		N/C
@@ -511,7 +522,8 @@ ForgeIRC
 	line 31 B:ircEnabled=false to B:ircEnabled=true
 	line 70 S:hostname=irc.esper.net to S:hostname=irc.freenode.net
 gascraft
-	line 27 B:"Flat Bedrock Compatibility Mode"=false to B:"Flat Bedrock Compatibility Mode"=true
+	XXX line 27 B:"Flat Bedrock Compatibility Mode"=false to B:"Flat Bedrock Compatibility Mode"=true
+	^ DEFAULT IN 0.2.3
 gases
 	N/C
 gasesFramework
@@ -520,8 +532,10 @@ gendustry
 	N/C
 Gravigun
 	line 55 I:graviGunFuel=0 to I:graviGunFuel=1
+	I:enableChargedGrabbing=0
 	line 97 I:grabChestTypeAllowed=1 to I:grabChestTypeAllowed=0
-	line 102 I:grabEntityMode=1 to I:grabEntityMode=2
+	XXX line 102 I:grabEntityMode=1 to I:grabEntityMode=2
+	^^^ This is a bit overkill I think, Can somebody give me an op scenario example?
 	line 106 I:grabablePlayers=1 to I:grabablePlayers=0
 Gravisuite
 	N/C
@@ -666,7 +680,8 @@ TreeCapicitor
 	N/C
 TwilightForest
 	line 89 B:AdminOnlyPortals=false ????????
-	line 98 B:DisableUncrafting=true ???????
+	line 98 B:DisableUncrafting=false
+	^^^ If there's an exploit, schlarpc will find it and I'll disable the uncrafting recipe
 UndergoundBiomes
 	N/C
 UniversalElectricity
