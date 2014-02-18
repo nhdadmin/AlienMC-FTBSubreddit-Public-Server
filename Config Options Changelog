@@ -649,7 +649,7 @@ SGCraft
 SpecialMobs
 	N/C
 StevesCarts
-	N/C
+	line 40 B:ChunkLoader=true to B:ChunkLoader=false
 StevesFactoryManager
 	N/C
 switches
