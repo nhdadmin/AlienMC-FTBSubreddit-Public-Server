@@ -445,7 +445,7 @@ CCTurtle
 ChargePads
 	N/C
 ChickenChunks
-	line 9 DEFAULT=5000 to DEFAULT=10
+	line 9 DEFAULT=10 to DEFAULT=9
 	line 17 DEFAULT=true to DEFAULT=false
 	line 24 DEFAULT=true to DEFAULT=false
 	line 29 awayTimeout=0 to awayTimeout=15
