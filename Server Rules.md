@@ -4,7 +4,7 @@
 
   <li> <b>NO</b> - Hacking, glitching, exploiting <i>(If you find a bug or exploit, please contact one of the admins immediatly)</i> </li>
 
-  <li> <b>NO</b> - CC programs that create an infinite loop with out a sleep function </li>
+  <li> <b>NO</b> - CC programs that create an infinite loop without a sleep function </li>
 
   <li> <b>NO</b> - TPS checking </li>
 
@@ -20,7 +20,7 @@
 
   <li> <b>NO</b> - Asking for OP, you will not get it </li>
   
-  <li> Each person is only allowed 9 loaded chunks at one time <i>(Chunks only load when you are onine)</i></li>
+  <li> Each person is only allowed 9 loaded chunks at one time <i>(Chunks only load when you are online)</i></li>
 
   <li> Have common sense </li>
 
