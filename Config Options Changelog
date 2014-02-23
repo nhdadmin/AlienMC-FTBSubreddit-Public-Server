@@ -560,7 +560,8 @@ ICBM
 IguanaTweaksTConstruct
 	N/C
 immibus
-	N/C
+	I:chunkloader.maxChunksPerPlayer=9
+	B:chunkloader.requireOnline=true
 immibus-microblocks
 	N/C
 IronChest
