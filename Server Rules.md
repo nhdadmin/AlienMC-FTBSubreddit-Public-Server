@@ -2,7 +2,7 @@
 
 <ol>
 
-  <li> <b>NO</b> - Hacking, glitching, exploiting (If you find a bug or exploit, please contact one of the admins immediatly) </li>
+  <li> <b>NO</b> - Hacking, glitching, exploiting <i>(If you find a bug or exploit, please contact one of the admins immediatly)</i> </li>
 
   <li> <b>NO</b> - CC programs that create an infinite loop with out a sleep function </li>
 
@@ -16,9 +16,11 @@
 
   <li> <b>NO</b> - Automated mining in the Overworld, The End or The Twilight Forest </li>
 
-  <li> <b>NO</b> - Entity storage (Make sure your farms don't back up!) </li>
+  <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up!)</i> </li>
 
   <li> <b>NO</b> - Asking for OP, you will not get it </li>
+  
+  <li> Each person is only allowed 9 loaded chunks at one time <i>(Chunks only load when you are onine)</i></li>
 
   <li> Have common sense </li>
 
