@@ -7,7 +7,7 @@ AM2
 	AM2
 		line 122 B:Player_Spells_Destroy_Terrain=true to B:Player_Spells_Destroy_Terrain=false
 	SklllConfig
-		N/C
+		 line 36 B:Dig=true to   B:Dig=false
 ArchimedesShips
 	Default 
 		N/C
