@@ -90,7 +90,7 @@ CoFH
 	ThermalExpansion
 	
 	Thermal Expansion-Florbs
-		N/C
+		Line 14 B:Florb.Enable=true to B:Florb.Enable=false
 	Thermal Expansion-Fuels
 		N/C
 	WorldCustomGen
