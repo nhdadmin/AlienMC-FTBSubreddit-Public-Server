@@ -304,6 +304,7 @@ powercrystals
 			XXX line 289 B:BlockBreaker.Recipe.Enabled=true to B:BlockBreaker.Recipe.Enabled=false
 			XXX line 291 B:BlockPlacer.Recipe.Enabled=true to B:BlockPlacer.Recipe.Enabled=false
 			^^^ Removed these 2 because first block around chunk declared nonsafe
+			line 247 B:Recipe.Guns=true to B:Recipe.Guns=false
 			line 353 B:EnableGregTechRecipes=false to B:EnableGregTechRecipes=true
 			line 356 B:EnableThermalExpansionRecipes=true to B:EnableThermalExpansionRecipes=false
 	netherores
