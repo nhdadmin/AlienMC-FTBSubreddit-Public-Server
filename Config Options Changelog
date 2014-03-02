@@ -228,13 +228,14 @@ machinemuse
 	andrew
 		PowersuitsAddons
 			line 8 B:"Use Cheaty Leather Recipe (Requires Thermal Expansion)"=true to B:"Use Cheaty Leather Recipe (Requires Thermal Expansion)"=false
-	recipies
+				recipies
 		ThermalExpansion.recipies
 			N/C
 	numina
 		N/C
 	powersuits
 		line 37 B:"Gregtech Recipes"=false to B:"Gregtech Recipes"=true
+		line 110 B:"Plasma Cannon"=true to B:"Plasma Cannon"=false
 mariculture
 	bait
 		N/C
