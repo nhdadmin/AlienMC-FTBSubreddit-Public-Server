@@ -14,11 +14,13 @@
 
   <li> <b>NO</b> - Pumping in the Nether </li>
 
-  <li> <b>NO</b> - Automated mining in the Overworld, The End or The Twilight Forest </li>
+  <li> <b>NO</b> - Mystcraft Ages </li>
 
   <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up!)</i> </li>
 
   <li> <b>NO</b> - Asking for OP, you will not get it </li>
+  
+  <li> Automated mining ONLY allowed in the Mining Age </li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time <i>(Chunks only load when you are online)</i></li>
 
