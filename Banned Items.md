@@ -3,7 +3,7 @@
 |Ars Magica "Dig" spells	|Ars Magica 2	|Removed via config	|Bypasses mytown permission|
 |Sigil of flat lands	|Ars Magica 2	|Disabled in recipear	|Bypasses mytown permission|
 |Cloud in Bootle	|Chisel	|Disabled in recipear	|Bypasses mytown permission|
-|ME Fluid Transition plane	E|xtraCells	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
+|ME Fluid Transition plane	|ExtraCells	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
 |Lacerator |Factorisation	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
 |NeedleGun	|MFR	|Disabled in config	|Bypasses mytown permission|
 |SPAMR Launcher	|MFR	|Disabled in config	|Bypasses mytown permission|
