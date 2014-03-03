@@ -10,7 +10,7 @@
 
   <li> <b>NO</b> - Griefing </li>
 
-  <li> <b>NO</b> - Use or possession of <b><a href="http://goo.gl/GUoQOw">Banned Items</a></b> </li>
+  <li> <b>NO</b> - Use or possession of <b><a href="http://goo.gl/HGucv0">Banned Items</a></b> </li>
 
   <li> <b>NO</b> - Pumping in the Nether </li>
 
