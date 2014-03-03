@@ -8,7 +8,7 @@
 |NeedleGun	|MFR	|Disabled in config	|Bypasses mytown permission|
 |SPAMR Launcher	|MFR	|Disabled in config	|Bypasses mytown permission|
 |Power Fist	|Modular Power Suits	|Disabled plasma cannon in config	|Bypasses mytown permission|
-|Crane	|Open Blocks	|Disabled in recipear	Bypasses mytown permission|
+|Crane	|Open Blocks	|Disabled in recipear	|Bypasses mytown permission|
 |BreakerPlus	|QuarryPlus	|Fix - Use MFR blockbreaker	|Bypasses mytown permission|
 |TNT Cart	|Railcraft	|Removed via config	|Bypasses mytown permission|
 |Wooden TNT Cart	|Railcraft	|Removed via config	|Bypasses mytown permission|
