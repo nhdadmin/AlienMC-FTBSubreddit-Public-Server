@@ -1,10 +1,10 @@
 |NAME| MOD| FIX| REASON|
 |--------------------------|--------------------------|---------------------------------------|--------------------------|
 |Ars Magica "Dig" spells	|Ars Magica 2	|Removed via config	|Bypasses mytown permission|
-|Sigil of flat lands	Ars Magica 2	Disabled in recipear	|Bypasses mytown permission|
+|Sigil of flat lands	|Ars Magica 2	|Disabled in recipear	|Bypasses mytown permission|
 |Cloud in Bootle	|Chisel	|Disabled in recipear	|Bypasses mytown permission|
 |ME Fluid Transition plane	E|xtraCells	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
-|Lacerator	he demand and supply curves for the pizza market are shown in the graph, below. Calculate daily producer| |surplus. |Factorisation	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
+|Lacerator |Factorisation	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
 |NeedleGun	|MFR	|Disabled in config	|Bypasses mytown permission|
 |SPAMR Launcher	|MFR	|Disabled in config	|Bypasses mytown permission|
 |Power Fist	|Modular Power Suits	|Disabled plasma cannon in config	|Bypasses mytown permission|
