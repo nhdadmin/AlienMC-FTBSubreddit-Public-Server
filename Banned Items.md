@@ -13,7 +13,7 @@
 |TNT Cart	|Railcraft	|Removed via config	|Bypasses mytown permission|
 |Wooden TNT Cart	|Railcraft	|Removed via config	|Bypasses mytown permission|
 |Axe of the Stream	|Thaumcraft	|Disabled in recipear	|Bypasses mytown permission|
-|Wand Focus |Equal Trade	Thaumcraft	|Disabled in recipear	|Bypasses mytown permission|
+|Wand Focus Equal Trade	|Thaumcraft	|Disabled in recipear	|Bypasses mytown permission|
 |Florbs	|Thermal Expansion	|Disabled in config	|Bypasses mytown permission|
 |TerrainSmasher	|Thermal Expansion	|Dont build on town border to prevent abuse	|Bypasses mytown permission|
 |SDX	|Tinkers Construct	|Disabled in recipear	|Bypasses mytown permission|
