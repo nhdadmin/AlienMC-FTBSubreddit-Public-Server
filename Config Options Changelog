@@ -543,6 +543,7 @@ Gravisuite
 	N/C
 HardcoreEnderExpansion
 	line 45 :enableTempleCaller=true to :enableTempleCaller=false
+	line 43 :B:enableEndermapocalypse=tro to B:enableEndermapocalypse=false
 Hats
 	N/C
 HatStand
