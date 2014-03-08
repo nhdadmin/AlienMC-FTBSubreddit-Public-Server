@@ -15,9 +15,9 @@ Avoid builds that cause generate a lot of particles.
 ###Price
 
  1 x Beacon [ID: 138]
- 
+
  9 x Block of Manyullyn [ID: 1478:2]
- 
+
 25 x Block of Diamond [ID: 57]
 
 47 x Block of Steel [ID: 1478:9]
