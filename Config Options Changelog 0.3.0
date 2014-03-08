@@ -500,6 +500,9 @@ ExtraTiC
 	N/C
 ExtraUtilities
 	line 106 B:disableAngelBlockRecipe=false to B:disableAngelBlockRecipe=true
+	line 94  B:disableEnderPumpInAllDimensions=false to B:disableEnderPumpInAllDimensions=true
+	line 119 B:disableEnderThermicPumpRecipe=false to B:disableEnderThermicPumpRecipe=true
+	
 factorization
 	N/C
 farlanders
