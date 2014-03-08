@@ -14,7 +14,11 @@ Avoid builds that cause generate a lot of particles.
 
 ###Price
 
-Plots may also be given as price in competitions by admins.
+ 1 x Beacon [ID: 138]
+ 9 x Block of Manyullyn [ID: 1478:2]
+25 x Block of Diamond [ID: 57]
+47 x Block of Steel [ID: 1478:9]
+91 x Block of Solid Ender [ID: 1478:10]
 
 ##Town portals
 Town must supply the power
