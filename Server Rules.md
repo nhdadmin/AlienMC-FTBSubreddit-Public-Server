@@ -18,7 +18,7 @@
 
   <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up!)</i> </li>
 
-  <li> <b>NO</b> - Asking for OP, you will not get it </li>
+  <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule </li>
   
   <li> Automated mining ONLY allowed in the Mining Age </li>
   
