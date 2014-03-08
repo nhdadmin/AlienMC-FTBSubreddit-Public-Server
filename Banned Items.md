@@ -32,3 +32,5 @@
 |KAMI	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
 |Instabillity Orb	|Hardcore enderexpansion	|Disabled in recipear	|Bypasses mytown permission|
 |Sacred Rubber Sapling	|MFR	|Disabled in recipear & config|Bypasses mytown permission|
+|EnderQuarry|Extra utilities|Disabled in recipear & config|Bypasses mytown permission|
+|Enderpump|Extra utilities|Disabled in recipear & config|Bypasses chunkloading limit|
