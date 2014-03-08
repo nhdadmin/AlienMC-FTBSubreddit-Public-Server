@@ -1,6 +1,4 @@
-#General Spawn information
-
-##Spawn town plots
+<H1>Spawn town plots</H1>
 
 ###Rules
 Plots are to be used as shops, embassies or similar.
