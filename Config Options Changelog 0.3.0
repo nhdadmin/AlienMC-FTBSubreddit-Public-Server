@@ -1,0 +1,723 @@
+Changelog
+ 
+abo
+	main 
+		N/C
+AM2
+	AM2
+		line 122 B:Player_Spells_Destroy_Terrain=true to B:Player_Spells_Destroy_Terrain=false
+	SklllConfig
+		 line 36 B:Dig=true to   B:Dig=false
+ArchimedesShips
+	Default 
+		N/C
+aroma1997
+	Aroma1997Core
+		N/C
+	BetterChests
+		N/C
+	CompactWindmills
+		N/C
+atg
+	atg config
+		N/C
+	Biome Modifiers
+		N/C		
+BCTools
+	Metal Weight properties
+		N/C	
+BigReactors
+	BigReactors
+		N/C
+biomesoplenty
+	biomegen
+		N/C
+	ids
+		N/C
+	main
+		N/C
+	misc
+		Smoothings Changed to 5
+	terraigen
+		Biome Size 5
+buildcraft
+	main
+		Line 125 changed from S:pumping.controlList=+/*/*,+/-1/lava to S:pumping.controlList=+/*/*,-/-1/lava to disable lava pumping in the nether
+CoFH
+	Lists
+		Blacklist-Florbs
+			N/C
+		Capes
+			N/C
+		Friends
+			N/C
+		Skins
+			N/C
+	CoFHCore
+		N/C
+	CoFCLoot
+		Line 26 B:WitherSkeletonsDropHeads=false 
+			*left alone but should we change it to true so they drop?			
+	CoFHasquerade
+		B:AllowEveryone=true changed to B:AllowEveryone=false, both places
+		Line 20 B:AllowOpsToSetOthers=False changed to B:AllowOpsToSetOthers=True
+		Line 35 B:AllowOpsToSetOthers=False to B:AllowOpsToSetOthers=True
+	CoFHasquerade-Capes
+		N/C
+	CoFHasquerade-Skins
+		N/C
+	CoFHSocial
+		N/C
+	CoFHSocial-Friends
+		N/C
+	CoFHWorld
+		
+	CoFHWorld-Generation
+		N/C
+	Core
+		N/C
+	Loot
+		Line 26 B:WitherSkeletonsDropHeads=false 
+			*left alone but should we change it to true so they drop?
+	Masquerade
+		B:AllowEveryone=true changed to B:AllowEveryone=false, both places
+		Line 20 B:AllowOpsToSetOthers=False changed to B:AllowOpsToSetOthers=True
+		Line 35 B:AllowOpsToSetOthers=False to B:AllowOpsToSetOthers=True
+	RedstoneArsenal
+		N/C
+	Social
+		N/C
+	ThermalExpansion
+	
+	Thermal Expansion-Florbs
+		Line 14 B:Florb.Enable=true to B:Florb.Enable=false
+	Thermal Expansion-Fuels
+		N/C
+	WorldCustomGen
+		N/C
+DartCraft
+	Fuels
+		N/C
+	Main
+		N/C
+	wrenchables
+		N/C
+denoflionsx
+	denLibCore
+		updater
+			N/C
+	DenPipes
+		DenPipes
+			N/C
+	GateCopy
+		GateCopy
+			N/C
+		GateNames
+			N/C
+Plugins for Forestry
+	Mappings
+		N/C
+	juice entries
+		N/C
+	OreDictionaryModules
+		N/C
+	peat Entries
+		N/C
+	PluginsforForestry
+		N/C
+	VALID TYPES
+		N/C
+	Veggie Juice Entries		
+		N/C
+ee3
+	block
+		N/C
+	general
+		N/C
+	item
+		N/C
+	transmutation
+		N/C
+enderio
+	AlloySmelterRecipes Core
+		N/C
+	AlloySmelterRecipes	User
+		N/C
+	EnderIO
+		N/C
+	SAGMillRecipes Core
+		N/C
+	SAGMillRecipes User
+		N/C
+Forestry
+	binniecore
+		main
+			N/C
+	extrabees
+		machines
+			Line 25 D:geneticErrorModifier=1.0 to D:geneticErrorModifier=2.0
+			line 28 I:isolatorConsumptionChance=30 to I:isolatorConsumptionChance=50
+		main
+			line 25 B:canQuarryMineHives=true changed to B:canQuarryMineHives=False 
+	extratrees	
+		main
+			N/C
+	gamemodes
+		easy
+			N/C
+		hard
+			N/C
+		normal
+			N/C
+		op
+			N/C
+	apiculture
+		line 23 beekeeping.mode=NORMAL to beekeeping.mode=HARD
+	backpacks
+		N/C
+	Base
+		N/C
+	common
+		line 27 difficulty.gamemode=NORMAL to difficulty.gamemode=HARD
+		line 54 performance.backpacks.resupply=true to performance.backpacks.resupply=false
+	lepidopterology	
+		N/C
+	pipes
+		N/C
+GanysMods
+	ganysend
+		N/C
+	ganysnether
+		N/C
+	ganyssurface
+		N/C
+GraveStoneMod
+	GraveStone
+		N/C
+GregTech
+	BlockItemIDs
+		N/C
+	DynamicConfig
+		XXX line 3382 B:mininglaser_true=true to B:mininglaser_true=false
+		UNDID THIS CHANGE^ Why are we letting them get easy mining lasers?
+		line 5820 B:DragonEggEnergySiphon.AllowMultipleEggs_false=false to B:DragonEggEnergySiphon.AllowMultipleEggs_false=true
+	GregTech
+		line 34 B:AFK_Hunger=false to B:AFK_Hunger=true
+		line 35 B:AdventureModeStartingAxe=true ??? what does it mean?
+		line 74 B:rain_causes_explosions=false to B:rain_causes_explosions=true
+	GregTech Lang
+		N/C
+	MachineStats	
+		line 9 B:DragonEggEnergySiphon.AllowMultipleEggs_false=false to B:DragonEggEnergySiphon.AllowMultipleEggs_false=true
+	MaterialProperties
+		N/C
+	Other
+		N/C	
+	Unification
+		N/C
+	WorldGeneration
+		N/C
+LycanitesMobs
+	DemonMobs
+		N/C
+	DesertMobs
+		N/C
+	SwampMobs
+		N/C
+machinemuse
+	andrew
+		PowersuitsAddons
+			line 8 B:"Use Cheaty Leather Recipe (Requires Thermal Expansion)"=true to B:"Use Cheaty Leather Recipe (Requires Thermal Expansion)"=false
+				recipies
+		ThermalExpansion.recipies
+			N/C
+	numina
+		N/C
+	powersuits
+		line 37 B:"Gregtech Recipes"=false to B:"Gregtech Recipes"=true
+		line 110 B:"Plasma Cannon"=true to B:"Plasma Cannon"=false
+mariculture
+	bait
+		N/C
+	fluids
+		N/C
+	ids
+		N/C
+	mechanics
+		N/C
+	modules
+		N/C
+	other
+		line 45 I:"Hardcore Diving Setting"=0 to I:"Hardcore Diving Setting"=1
+		line 57 B:"Enable Ender Dragon Spawning"=true to B:"Enable Ender Dragon Spawning"=false
+	worldgen
+		N/C
+Metallurgy	
+	MetallurgyBase
+			N/C
+	MetallurgyCore
+		N/C
+	MetallurgyEnder
+		N/C
+	MetallurgyFantasy
+			N/C
+	MetallurgyMachines
+		N/C
+	MetallurgyNether
+		N/C
+	MetallurgyPrecious
+		N/C
+	MetallurgyUtility
+		N/C
+	MetallurgyVanilla
+		N/C
+minetweaker
+	main
+		N/C
+mystcraft
+	core
+		line 52 B:options.instability=true to B:options.instability=false
+	instabilities
+		N/C
+	symbols
+		line 278 B:denseores.enabled=true to B:denseores.enabled=false
+		B:modmat_tile.orecoal.enabled=false
+		B:modmat_tile.orediamond.enabled=false
+		B:modmat_tile.oregold.enabled=false
+		B:modmat_tile.oreiron.enabled=false
+		B:modmat_tile.netherquartz.enabled=false
+
+powercrystals
+	core
+		client
+			N/C
+		server
+			N/C
+	minefactoryreloaded
+		client
+			N/C
+		common
+			line 80 B:Conveyor.NeverCaptureTCGolems=false to B:Conveyor.NeverCaptureTCGolems=true
+			line 92 B:LiquidSyringes=true to B:LiquidSyringes=false
+			line 98 B:PlaySounds=true to B:PlaySounds=false
+			line 110 B:Road.Slippery=true to B:Road.Slippery=false
+			line 170 B:WorldGen.SacredRubberSapling=true to B:WorldGen.SacredRubberSapling=false
+			XXX line 289 B:BlockBreaker.Recipe.Enabled=true to B:BlockBreaker.Recipe.Enabled=false
+			XXX line 291 B:BlockPlacer.Recipe.Enabled=true to B:BlockPlacer.Recipe.Enabled=false
+			^^^ Removed these 2 because first block around chunk declared nonsafe
+			line 247 B:Recipe.Guns=true to B:Recipe.Guns=false
+			line 353 B:EnableGregTechRecipes=false to B:EnableGregTechRecipes=true
+			line 356 B:EnableThermalExpansionRecipes=true to B:EnableThermalExpansionRecipes=false
+	netherores
+		common
+			N/C
+railcraft
+	lang
+		--
+	modules
+		line 14 B:chunk.loading=true to B:chunk.loading=false
+	railcraft
+		line 11 B:craftable=true to B:craftable=false
+		XXX line 18 B:delete.anchors=false to B:delete.anchors=true
+		^ This is a per session variable, doesn't persist.
+		line 38 B:personal.craftable=true to B:personal.craftable=false
+		line 125 B:cart.tnt=true to B:cart.tnt=false
+		line 126 B:cart.tnt.wood=true to B:cart.tnt.wood=false
+Reika
+	CaveControl
+		N/C
+	DyeTrees
+		N/C
+	EnderForest
+		N/C
+	EcpandedRedstone
+		N/C
+	GeoStrata
+		N/C
+	MeotorCraft
+		N/C
+	ReactorCraft
+		N/C
+	RotaryCraft
+		N/C
+RemoteIO
+	lang
+		--
+	RemoteIO
+		N/C
+SparrMods
+	Mimicry
+		N/C
+	MythicDivergence
+		N/C
+	MythicIC2
+		N/C
+	SpellRod
+		N/C
+ss2
+	block
+		N/C
+	general
+		N/C
+	item
+		N/C
+ThaumcraftMobAspects
+	**DID NOT TOUCH THIS**
+TPPI
+	TPPITweaks
+		line 12 B:enderPouchTesseract=false to B:enderPouchTesseract=true
+		Tank requiring is now default
+Tropicraft
+	Misc
+		N/C
+	ModIds
+		N/C
+	VolleyballIDs
+		N/C
+vanillawithsprinkles
+	FancyFences
+		N/C
+WeatherMod
+	IDs
+		N/C
+	Storm&Tornado
+		N/C
+	Trees
+		N/C
+	Waves&Misc
+		N/C
+	Wind
+		N/C
+advanced genetics
+	N/C
+AdvancedSolarPanel
+	N/C
+AdvancedSolarPanel_MTRecipes
+	N/C
+Agriculture
+	N/C
+AppliedEnergistics
+	N/C
+Aquaculture
+	N/C
+ArchimedesShipsMod
+	N/C
+Artifice
+	N/C
+AS1
+	N/C
+AtomicScience
+	N/C
+Autoutils
+	N/C
+AWWayofTime
+	N/C
+Backpack
+	N/C
+barrels
+	N/C
+Basic Components
+	N/C
+BCTools
+	N/C
+betterstorage
+	N/C
+BiblioCraft
+	N/C
+BiblioWoodsBoP
+	N/C
+BiblioWoodsForestry
+	N/C
+BiblioWoodsHighlands
+	N/C
+BiblioWoodsNatura
+	N/C
+Billund
+	N/C
+blir-enderprospecting
+	N/C
+buildcraftAddon
+	N/C
+Calclavia
+	N/C
+CarpentersBlocks
+	N/C
+CCTurtle
+	N/C
+ChargePads
+	N/C
+ChickenChunks
+	line 9 DEFAULT=10 to DEFAULT=9
+	line 17 DEFAULT=true to DEFAULT=false
+	line 24 DEFAULT=true to DEFAULT=false
+	line 29 awayTimeout=0 to awayTimeout=15
+	line 39 maxchunks=400 to maxchunks=10
+	line 42 op-interact=false to op-interact=true
+	line 45 reload-dimensions=true to reload-dimensions=false
+Chisel
+	N/C
+ClaySpawn
+	N/C
+CodeChickenCore
+	N/C
+CompactSolars
+	N/C
+ComputerCraft
+	N/C
+CraftHeraldry
+	N/C
+DamageIndicatorsMod
+	N/C
+denLib
+	N/C
+denLib.txt
+	N/C
+DIAdvancedCompatability
+	N/C
+DoggyTalents
+	N/C
+dynamictanks
+	N/C
+emashercore
+	N/C
+endernet
+	N/C
+endernet-servers.json
+	N/C
+EnderStorage
+	N/C
+EnderTanks
+	N/C	
+eng_toolbox
+	N/C
+EnhancedPortals3
+	N/C
+eplus
+	N/C
+ExtendedRenderer
+	N/C
+extracells
+	N/C
+ExtraTiC
+	N/C
+ExtraUtilities
+	line 95 B:disableAngelBlockRecipe=false to B:disableAngelBlockRecipe=true
+factorization
+	N/C
+farlanders
+	N/C
+FinndusFillies
+	N/C
+FlansMod
+	N/C
+flatsigns
+	N/C
+forge
+	N/C
+forgeChunkLoading
+	N/C
+ForgeIRC
+	line 9 S:Name=#ForgeIRC to S:Name=#FTBSubredditServer
+	line 18 B:Deaths=false to B:Deaths=true
+    line 19 B:IRC_Joins=false to B:IRC_Joins=true
+    line 21 B:minecraft_joins=false to B:minecraft_joins=true
+	line 31 B:ircEnabled=false to B:ircEnabled=true
+	line 70 S:hostname=irc.esper.net to S:hostname=irc.freenode.net
+gascraft
+	XXX line 27 B:"Flat Bedrock Compatibility Mode"=false to B:"Flat Bedrock Compatibility Mode"=true
+	^ DEFAULT IN 0.2.3
+gases
+	N/C
+gasesFramework
+	N/C
+gendustry
+	N/C
+Gravigun
+	line 55 I:graviGunFuel=0 to I:graviGunFuel=1
+	I:enableChargedGrabbing=0
+	line 97 I:grabChestTypeAllowed=1 to I:grabChestTypeAllowed=0
+	XXX line 102 I:grabEntityMode=1 to I:grabEntityMode=2
+	^^^ This is a bit overkill I think, Can somebody give me an op scenario example?
+	line 106 I:grabablePlayers=1 to I:grabablePlayers=0
+Gravisuite
+	N/C
+HardcoreEnderExpansion
+	line 45 :enableTempleCaller=true to :enableTempleCaller=false
+	line 43 :B:enableEndermapocalypse=tro to B:enableEndermapocalypse=false
+Hats
+	N/C
+HatStand
+	N/C
+heldCore
+	N/C
+Highlands
+	N/C
+HopperDuctMod
+	N/C
+IC2
+	line 83 B:enableCraftingNuke=true to B:enableCraftingNuke=false
+IC2NeuclearControl
+	
+ICBM
+	N/C
+IguanaTweaksTConstruct
+	N/C
+immibus
+	I:chunkloader.maxChunksPerPlayer=9
+	B:chunkloader.requireOnline=true
+immibus-microblocks
+	N/C
+IronChest
+	N/C
+JABBA
+	N/C
+LogisticsPipes
+	N/C
+LogisticsPipes-LangDatabase
+	N/C
+magicalcrops
+	N/C
+MagicBees
+	N/C
+MapWriter
+	N/C
+Mekanism
+	N/C
+meteors
+	N/C
+microblocks
+	N/C
+modstats
+	N/C
+Modular Force Field System
+	N/C
+ModularForceFieldSystem
+	line 27 B:Chunkloader=true to B:Chunkloader=false
+Morph
+	N/C
+Morpheus
+	N/C
+multipart
+	N/C
+Natura
+	line 162 B:"Generate Redwood Trees"=true to B:"Generate Redwood Trees"=false
+NaturaCompat
+	N/C
+NEI
+	N/C
+NEIAddons
+	N/C
+NEIServer
+	N/C
+NEISubset
+	N/C
+ObsidiPlates
+	N/C
+OpenBlocks
+	N/C
+OpenComputers
+	N/C
+OpenMods
+	N/C
+OpenPeripheral
+	N/C
+OpenPeripheralCore
+	N/C
+Opis
+	N/C
+pamharvestcraft
+	N/C
+PlayerBeacons
+	N/C
+PortalGun
+	line 156 I:recipeEasyLongFallBoots=0 to I:recipeEasyLongFallBoots=1
+	line 211 I:portalGunFuel=0 to I:portalGunFuel=1
+ProjectRed
+	N/C
+QuantumCraft
+	N/C
+QuarryPlus
+	N/C
+RandomThings
+	N/C
+rcdusts
+	N/C
+RedstpnePasteMode
+	N/C
+Resonant Induction
+	N/C
+roguelike
+	N/C
+SGCraft
+	N/C
+SpecialMobs
+	N/C
+StevesCarts
+	line 40 B:ChunkLoader=true to B:ChunkLoader=false
+StevesFactoryManager
+	N/C
+switches
+	N/C
+Sync
+	N/C
+TconPreloader
+	N/C
+Thaumcraft
+	N/C
+ThaumicTinkerer
+	N/C
+TinkersWorkshop
+	N/C
+TMechworks
+	N/C
+TorchLevers
+	N/C
+TorchLevers_TextureSupport
+	N/C
+Touhou_alice_dolls
+	N/C
+Traincraft
+	N/C
+Translocator
+	N/C
+TreeCapicitor
+	N/C
+TwilightForest
+	line 89 B:AdminOnlyPortals=false ????????
+	line 98 B:DisableUncrafting=false
+	^^^ If there's an exploit, schlarpc will find it and I'll disable the uncrafting recipe
+UndergoundBiomes
+	N/C
+UniversalElectricity
+	N/C
+UtilityMobs
+	N/C
+VeinMiner
+	N/C
+Waila
+	N/C
+wildcaves
+	N/C
+WirelessRedstone
+	N/C
+witchery
+	N/C
+xact
+	N/C
+xreliquary
+	N/C
+ 
+	
+*****
+World Folder
+ 
+ic2_map
+	N/C
+PortalGun_World
+	line 44 I:hepMode=1 to I:hepMode=2
+	line 81 I:hardModePortalGun=0 to I:hardModePortalGun=1 http://www.youtube.com/watch?v=gJyslSqrF0c
+	line 109 I:enableMoonPortals=1 to I:enableMoonPortals=0
+	line 113 I:moonPortalGrabsBlocks=1 to I:moonPortalGrabsBlocks=0
+	line 119 I:moonPortalGrabsPlayers=2 to I:moonPortalGrabsPlayers=0
+	line 160 I:moonPortalGrabsPlayers=1 to I:moonPortalGrabsPlayers=0
+	line 188 I:customFuel=0 to I:customFuel=1
