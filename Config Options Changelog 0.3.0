@@ -5,7 +5,7 @@ abo
 		N/C
 AM2
 	AM2
-		line 122 B:Player_Spells_Destroy_Terrain=true to B:Player_Spells_Destroy_Terrain=false
+		line 126 B:Player_Spells_Destroy_Terrain=true to B:Player_Spells_Destroy_Terrain=false
 	SklllConfig
 		 line 36 B:Dig=true to   B:Dig=false
 ArchimedesShips
@@ -37,12 +37,14 @@ biomesoplenty
 	main
 		N/C
 	misc
-		Smoothings Changed to 5
+		Smoothings Changed to 5 from 1
 	terraigen
 		Biome Size 5
+Books
+	N/C
 buildcraft
 	main
-		Line 125 changed from S:pumping.controlList=+/*/*,+/-1/lava to S:pumping.controlList=+/*/*,-/-1/lava to disable lava pumping in the nether
+		Line 120 changed from S:pumping.controlList=+/*/*,+/-1/lava to S:pumping.controlList=+/*/*,-/-1/lava to disable lava pumping in the nether
 CoFH
 	Lists
 		Blacklist-Florbs
@@ -58,11 +60,11 @@ CoFH
 	CoFCLoot
 		Line 26 B:WitherSkeletonsDropHeads=false 
 			*left alone but should we change it to true so they drop?			
-	CoFHasquerade
+	CoFHMasquerade
 		B:AllowEveryone=true changed to B:AllowEveryone=false, both places
 		Line 20 B:AllowOpsToSetOthers=False changed to B:AllowOpsToSetOthers=True
 		Line 35 B:AllowOpsToSetOthers=False to B:AllowOpsToSetOthers=True
-	CoFHasquerade-Capes
+	CoFHMasquerade-Capes
 		N/C
 	CoFHasquerade-Skins
 		N/C
@@ -156,9 +158,8 @@ Forestry
 	extrabees
 		machines
 			Line 25 D:geneticErrorModifier=1.0 to D:geneticErrorModifier=2.0
-			line 28 I:isolatorConsumptionChance=30 to I:isolatorConsumptionChance=50
 		main
-			line 25 B:canQuarryMineHives=true changed to B:canQuarryMineHives=False 
+			line 25 B:canQuarryMineHives=true changed to B:canQuarryMineHives=false 
 	extratrees	
 		main
 			N/C
@@ -198,12 +199,10 @@ GregTech
 	BlockItemIDs
 		N/C
 	DynamicConfig
-		XXX line 3382 B:mininglaser_true=true to B:mininglaser_true=false
-		UNDID THIS CHANGE^ Why are we letting them get easy mining lasers?
-		line 5820 B:DragonEggEnergySiphon.AllowMultipleEggs_false=false to B:DragonEggEnergySiphon.AllowMultipleEggs_false=true
+		line 10271 B:DragonEggEnergySiphon.AllowMultipleEggs_false=false to B:DragonEggEnergySiphon.AllowMultipleEggs_false=true
 	GregTech
 		line 34 B:AFK_Hunger=false to B:AFK_Hunger=true
-		line 35 B:AdventureModeStartingAxe=true ??? what does it mean?
+		line 70 B:explosions_on_nonwrenching=false to B:explosions_on_nonwrenching=true
 		line 74 B:rain_causes_explosions=false to B:rain_causes_explosions=true
 	GregTech Lang
 		N/C
@@ -248,8 +247,9 @@ mariculture
 	modules
 		N/C
 	other
-		line 45 I:"Hardcore Diving Setting"=0 to I:"Hardcore Diving Setting"=1
-		line 57 B:"Enable Ender Dragon Spawning"=true to B:"Enable Ender Dragon Spawning"=false
+	##### Not applicable but still set. Removed in 0.3.0 of TPPI
+		line 89 I:"Hardcore Diving Setting"=0 to I:"Hardcore Diving Setting"=1
+		line 102 B:"Enable Ender Dragon Spawning"=true to B:"Enable Ender Dragon Spawning"=false
 	worldgen
 		N/C
 Metallurgy	
@@ -276,16 +276,16 @@ minetweaker
 		N/C
 mystcraft
 	core
-		line 52 B:options.instability=true to B:options.instability=false
+		line 53 B:options.instability=true to B:options.instability=false
 	instabilities
 		N/C
 	symbols
 		line 278 B:denseores.enabled=true to B:denseores.enabled=false
-		B:modmat_tile.orecoal.enabled=false
-		B:modmat_tile.orediamond.enabled=false
-		B:modmat_tile.oregold.enabled=false
-		B:modmat_tile.oreiron.enabled=false
-		B:modmat_tile.netherquartz.enabled=false
+		line 462 B:modmat_tile.orecoal.enabled=false
+		line 463 B:modmat_tile.orediamond.enabled=false
+		line 464 B:modmat_tile.oregold.enabled=false
+		line 465 B:modmat_tile.oreiron.enabled=false
+		line 458 B:modmat_tile.netherquartz.enabled=false
 
 powercrystals
 	core
@@ -299,12 +299,8 @@ powercrystals
 		common
 			line 80 B:Conveyor.NeverCaptureTCGolems=false to B:Conveyor.NeverCaptureTCGolems=true
 			line 92 B:LiquidSyringes=true to B:LiquidSyringes=false
-			line 98 B:PlaySounds=true to B:PlaySounds=false
 			line 110 B:Road.Slippery=true to B:Road.Slippery=false
 			line 170 B:WorldGen.SacredRubberSapling=true to B:WorldGen.SacredRubberSapling=false
-			XXX line 289 B:BlockBreaker.Recipe.Enabled=true to B:BlockBreaker.Recipe.Enabled=false
-			XXX line 291 B:BlockPlacer.Recipe.Enabled=true to B:BlockPlacer.Recipe.Enabled=false
-			^^^ Removed these 2 because first block around chunk declared nonsafe
 			line 247 B:Recipe.Guns=true to B:Recipe.Guns=false
 			line 353 B:EnableGregTechRecipes=false to B:EnableGregTechRecipes=true
 			line 356 B:EnableThermalExpansionRecipes=true to B:EnableThermalExpansionRecipes=false
@@ -321,8 +317,11 @@ railcraft
 		XXX line 18 B:delete.anchors=false to B:delete.anchors=true
 		^ This is a per session variable, doesn't persist.
 		line 38 B:personal.craftable=true to B:personal.craftable=false
-		line 125 B:cart.tnt=true to B:cart.tnt=false
-		line 126 B:cart.tnt.wood=true to B:cart.tnt.wood=false
+		line 114 B:cart.anchor=true to B:cart.anchor=false
+		line 115 B:cart.anchor.admin=true to B:cart.anchor.admin=false
+		line 116 B:cart.anchor.personal=true to B:cart.anchor.personal=false
+		line 126 B:cart.tnt=true to B:cart.tnt=false
+		line 127 B:cart.tnt.wood=true to B:cart.tnt.wood=false
 Reika
 	CaveControl
 		N/C
@@ -365,8 +364,7 @@ ThaumcraftMobAspects
 	**DID NOT TOUCH THIS**
 TPPI
 	TPPITweaks
-		line 12 B:enderPouchTesseract=false to B:enderPouchTesseract=true
-		Tank requiring is now default
+		N/C
 Tropicraft
 	Misc
 		N/C
@@ -501,7 +499,10 @@ extracells
 ExtraTiC
 	N/C
 ExtraUtilities
-	line 95 B:disableAngelBlockRecipe=false to B:disableAngelBlockRecipe=true
+	line 106 B:disableAngelBlockRecipe=false to B:disableAngelBlockRecipe=true
+	line 94  B:disableEnderPumpInAllDimensions=false to B:disableEnderPumpInAllDimensions=true
+	line 119 B:disableEnderThermicPumpRecipe=false to B:disableEnderThermicPumpRecipe=true
+	
 factorization
 	N/C
 farlanders
@@ -516,16 +517,15 @@ forge
 	N/C
 forgeChunkLoading
 	N/C
-ForgeIRC
+ForgeIRCf
 	line 9 S:Name=#ForgeIRC to S:Name=#FTBSubredditServer
 	line 18 B:Deaths=false to B:Deaths=true
-    line 19 B:IRC_Joins=false to B:IRC_Joins=true
-    line 21 B:minecraft_joins=false to B:minecraft_joins=true
+    	line 19 B:IRC_Joins=false to B:IRC_Joins=true
+    	line 21 B:minecraft_joins=false to B:minecraft_joins=true
 	line 31 B:ircEnabled=false to B:ircEnabled=true
 	line 70 S:hostname=irc.esper.net to S:hostname=irc.freenode.net
 gascraft
-	XXX line 27 B:"Flat Bedrock Compatibility Mode"=false to B:"Flat Bedrock Compatibility Mode"=true
-	^ DEFAULT IN 0.2.3
+	N/C
 gases
 	N/C
 gasesFramework
@@ -542,8 +542,8 @@ Gravigun
 Gravisuite
 	N/C
 HardcoreEnderExpansion
-	line 45 :enableTempleCaller=true to :enableTempleCaller=false
 	line 43 :B:enableEndermapocalypse=tro to B:enableEndermapocalypse=false
+	line 45 :enableTempleCaller=true to :enableTempleCaller=false
 Hats
 	N/C
 HatStand
@@ -563,8 +563,8 @@ ICBM
 IguanaTweaksTConstruct
 	N/C
 immibus
-	I:chunkloader.maxChunksPerPlayer=9
-	B:chunkloader.requireOnline=true
+	line 43 I:chunkloader.maxChunksPerPlayer=-2 to I:chunkloader.maxChunksPerPlayer=9
+	line 46	B:chunkloader.requireOnline=false to B:chunkloader.requireOnline=true
 immibus-microblocks
 	N/C
 IronChest
@@ -590,7 +590,7 @@ microblocks
 modstats
 	N/C
 Modular Force Field System
-	N/C
+	line 42 B:"Load Chunks"=true to false
 ModularForceFieldSystem
 	line 27 B:Chunkloader=true to B:Chunkloader=false
 Morph
@@ -630,7 +630,6 @@ pamharvestcraft
 PlayerBeacons
 	N/C
 PortalGun
-	line 156 I:recipeEasyLongFallBoots=0 to I:recipeEasyLongFallBoots=1
 	line 211 I:portalGunFuel=0 to I:portalGunFuel=1
 ProjectRed
 	N/C
@@ -683,9 +682,7 @@ Translocator
 TreeCapicitor
 	N/C
 TwilightForest
-	line 89 B:AdminOnlyPortals=false ????????
-	line 98 B:DisableUncrafting=false
-	^^^ If there's an exploit, schlarpc will find it and I'll disable the uncrafting recipe
+	N/C
 UndergoundBiomes
 	N/C
 UniversalElectricity
