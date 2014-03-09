@@ -387,7 +387,18 @@ WeatherMod
 	Wind
 		N/C
 advanced genetics
-	N/C
+	line 35 B:ABILITY.AllowFireballs=true to  B:ABILITY.AllowFireballs=false
+	line 36 B:ABILITY.AllowFireballsExplode=true to false
+	line 44 B:ABILITY.AllowSelfExplode=true to B:ABILITY.AllowSelfExplode=false
+	line 55 B:ABILITY.PotionThrower=true to B:ABILITY.PotionThrower=false
+	line 58 B:ABILITY.WithersHit=true to B:ABILITY.WithersHit=false
+	line 67 B:BOOL.AllowFireballs=true to B:BOOL.AllowFireballs=false
+    	line 68 B:BOOL.AllowFireballsExplode=true to B:BOOL.AllowFireballsExplode=false
+    	line 77 B:BOOL.AllowSelfExplode=true to B:BOOL.AllowSelfExplode=false
+    	line 86 B:BOOL.PotionThrower=true to B:BOOL.PotionThrower=false
+    	line 88 B:BOOL.WithersHit=true to false
+    	
+	
 AdvancedSolarPanel
 	N/C
 AdvancedSolarPanel_MTRecipes
