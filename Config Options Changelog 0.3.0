@@ -693,7 +693,7 @@ Translocator
 TreeCapicitor
 	N/C
 TwilightForest
-	N/C
+	line 95 B:DisablePortalCreation=false to true
 UndergoundBiomes
 	N/C
 UniversalElectricity
