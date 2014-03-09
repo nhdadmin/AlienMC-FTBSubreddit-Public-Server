@@ -36,3 +36,6 @@
 |Enderpump|Extra utilities|Disabled in recipear & config|Bypasses chunkloading limit|
 |Rainmaker|Forestry|Disabled in recipear|Makes it rain|
 |Iodine Capsule|Forestry|Disabled in recipear|Makes it rain|
+|Temple Caller|Hardcore Ender Expansion|Disabled in recipear|Bypasses mytown permission|
+
+**Items disabled in recipear are disabled by a thirdparty mod called Recipear**
