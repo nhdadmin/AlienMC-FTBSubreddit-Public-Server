@@ -10,7 +10,7 @@ Players should avoid having complex machinery or surplus power production in the
 No traps or intentional contraptions that might damage or kill players.
 
 ###Design Guidelines
-Avoid builds that cause generate a lot of particles.
+Avoid builds that generate a lot of particles.
 
 ###Price
 
