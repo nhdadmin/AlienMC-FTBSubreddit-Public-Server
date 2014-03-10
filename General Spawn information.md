@@ -5,7 +5,7 @@
 ###Rules
 Plots are to be used as shops, embassies or similar.
 
-Players should avoid to have complex machinery or surplus power production in these plots to avoid causing lag.
+Players should avoid having complex machinery or surplus power production in these plots to avoid causing lag.
 
 No traps or intentional contraptions that might damage or kill players.
 
