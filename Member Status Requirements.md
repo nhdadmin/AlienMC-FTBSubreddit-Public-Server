@@ -1,4 +1,4 @@
-Requirements for membership
+#Requirements for membership
 
 *A Verified [Mineticket](http://mineticket.alienmc.co/) account
 
