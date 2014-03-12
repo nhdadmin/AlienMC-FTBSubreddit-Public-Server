@@ -2,7 +2,7 @@
 
 * A Verified [Mineticket](http://mineticket.alienmc.co/) account
 
-* advance up a tech tree or an awe inspiring build
+* Advance up a tech tree or an awe inspiring build
 
 * Screen shots hosted on [imgur](http://imgur.com/) submitted through [Mineticket](http://mineticket.alienmc.co/)
 
