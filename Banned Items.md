@@ -27,9 +27,9 @@
 |Quarry Plus	|QuarryPlus	|Disabled in recipear	|Bypasses mytown permission|
 |Matter Cannon	|Applied energistics	|Disabled in recipear	|Bypasses mytown permission|
 |Digital Miner	|Mekanism	|Disabled in recipear	|Bypasses mytown permission|
-|KAMI	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
-|KAMI	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
-|KAMI	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
+|Awekend Ichorium Pickaxe	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
+|Awekend Ichorium Shovel	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
+|Awekend Ichorium Axe|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
 |Instabillity Orb	|Hardcore enderexpansion	|Disabled in recipear	|Bypasses mytown permission|
 |Sacred Rubber Sapling	|MFR	|Disabled in recipear & config|Bypasses mytown permission|
 |EnderQuarry|Extra utilities|Disabled in recipear & config|Bypasses mytown permission|
