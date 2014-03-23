@@ -12,3 +12,5 @@
 ###Failure to follow all these items may result in a denial of membership application
 
 [AMAZING Example of a Membership Applocation](http://imgur.com/koDZfFv)
+
+[Pastebin screenshot of the formatting](http://i.imgur.com/QvOigNE.png)
