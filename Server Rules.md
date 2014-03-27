@@ -20,7 +20,7 @@
 
   <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule </li>
   
-  <li> Automated mining ONLY allowed in the Mining Age </li>
+  <li> Automated mining ONLY allowed in the Mining Age (EXCEPTION-2 ender quarries per town ONLY used in Deep Dark)</li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time <i>(Chunks only load when you are online)</i></li>
 
