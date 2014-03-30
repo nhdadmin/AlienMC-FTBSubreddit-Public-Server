@@ -1,0 +1,308 @@
+TPPIv0.3.0~
+- Added Advanced Genetics! Adds genetic science to Minecraft. This replaces morph abilities. Fly as a squid or shear yourself as a bat, its up to you. Note: The auto output upgrade is disabled by default due to rare crashes.~
+~~~
+- Added ServerTools! No longer do you have to worry about world corruption and chunk resets. This mod will backup your game for you in the /backups folder in your Minecraft directory. This is disabled by default, and you will have to renable it and set the time intervals in the config.~
+~~~
+- The mod also works in SSP. This also adds a bunch of server commands and tools. Check the config for a complete listing.~
+~
+- Added Infernal Mobs! Adds some dangerous enemies, with Diablo-style enchantments.~
+~~~
+- Removed Mariculture. As you can see from the loading screen popup, mariculture was removed. Please remove all blocks and items (especially from your inventory) as we will not ship mariculture at all in the next version.~
+~~~
+- Removed LegacyCraft and Dragon API. The original purpose of this mod was to counteract the 1.6 zombie AI changes, which are (in testing) the #1 cause of server lag.~ ~~~
+~~~
+- Unfortunately, this caused more problems than it solved (necrotic bones not dropping, creepers not getting knocked back, dem skeles..) so it was removed.~
+~~~
+Mod updates:~
+- Updated Bibliocraft to v1.5.5. This prevents a crash when placing TF items on Bibliocraft objects.~
+~
+- Updated Blood Magic to v0.7.2b. This is just an update in the Thaumcraft API.~
+~~~
+- Updated CodeChickenCore, CodeChickenLib, and Forge Multipart. Bug and crash fixes.~
+~~~
+- Updated Dartcraft to 0.2.17. Adds the time enchantment (disabled on torches and working on growth events). Enchant these on your force rod to speed up or slow down time.~
+~~~
+- Added flasks of angry bees. Items with the sturdy upgrade will persist in an inventory through death. Various bug fixes. Full changelog here: http://pastebin.com/SyR3TU0S.~
+~~~
+- Updated EnderIO to v0.11.3.331. Added ME conduit. Yes, now there is FIVE different kinds of cable possible in one block. Added teleporters and the travel staff. Improved the EnderIO block. Added Quite-Clear glass. Lots of bug fixes.~
+~~~
+- Updated EnderStorage(v1.4.3.6), NEI(1.6.1.9), Translocators(1.1.0.15), and Wireless CBE(1.4.0.7). Bug fixes. Note: For NEI, click on the global button on the top right of the settings menu inside NEI to renable getting into cheat mode.~
+~~~
+- Updated Enhanced Portals to v3.0.0b5c. Added public and private networks.~
+~
+- Updated Extra Utilities to v1.0.3a. Added the Ender Quarry and pipe jackets. Cursed earth no longer requires a player to be near by.~
+~~~
+- Updated Factorization to v0.8.33. Added the pressure generator.~
+~
+- Updated IC2exp to v397. Last IC2 build for 1.6.4.~
+~~~
+- Updated Inventory Tweaks to vb86. Hopefully fixes the weird sorting glitch.~
+~
+- Updated JourneyMap (still disabled by default) to v3.3.2Unlimited. Added a minimap.~
+~~~
+- Updated to Magical Crops v3.2.0beta15a. Added arcane fences, juice, and lots of food. Fixed MFR and TC golem compatibility. Added more crops, more armour, essence coal, and unbreakable tool set. Removed walrus buffing.~
+~~~
+- This also fixes NEI ?shift click, essence seed dupe. Renabled xp seed. Items and blocks will have disappeared from your world. This is normal.~
+~
+- Updated Mekanism to v6.0.3.21. Stable release! Added armored jetpack and freerunners.~
+~~~
+- Updated Morph to 0.7.0. Fixed all remaining morph bugs. Turned off morph abilities and morph loss on death. Use Advanced Genetics for your abilities.~
+~
+- Updated NEI addons to v1.10.4.64. Fixes some crashes.~
+~~~
+- Updated Open mods. Added Radio. Fixes conflicting glider recipe, peripheral proxy. Adds guide book.~
+~
+- Updated Railcraft to v8.4.0.0. Adds platform, fixes TC API and train dispenser.~
+~~~
+- Updated Steves Factory Manager. Changes recipes, adds some Waila support, cable clusters, cable camo, more inventory customization such as mod detection and command groups. Fixes a bunch of bugs.~
+~~~
+- Updated Thaumcraft to v4.1.0e. Revamps research (now purchasable and selectable), new minigame. Adds new runic armour, staffs, warded blocks,  and a bunch more! Check your thaumonomicon.~
+~~~
+- Updated ThaumicTinkerer to v2.3-130. Adds bedrock dimension, Waila support, Dissipating Turtle, Levitational Locomotive, Golem Connector, TiC and Enderstorage compatibility.~
+~~~
+- Updated TPPItweaks to v0.9.0-90. Recipe changes: Ender Quarry, Essence Seeds, ExU Generators, EnderStorage, and new SFM stuff. Adjusts mcrops recipes.~
+~
+- Updated Waila to v1.5.1a. Adds target health, more mod support~
+~~~
+- Updated Witchery to v0-15-1_164. Added Covens, witchery villager, Seer Stone, new Rites Curses, and Brews. More depth to rituals, and fixes IC2 plantball crash.~
+~~~
+Config/Modpack tweaks
+- Renabled digital miner and cardboard box.~
+~~~
+- Added files, configurators, crowbars, and bows to the bibliocraft tool rack.~
+~
+- Increased power usage of MFR planters and harvesters. Disabled steam generator.~
+~~~
+- Morphing into a hostile mob now prevents mobs of that type from being aggressive toward you.~
+~
+- Removed titanium->chrome in the advanced solars MT.~
+~~~
+- Added some more mod ores to Blood Magic meteors.~
+~
+- Turned off moss spreading from Project Red. Significant lag reduction.~
+~~~
+- Slowed taint spreading. More lag reduction.~
+~
+- Renabled peaceful recipes in Extra utilities.~
+~~~
+- Disabled pixies and phantoms.~
+~
+- Removed uncrafting of marble->9 marble dust.~
+~
+- Updated universal configs.~
+~~~
+- Renabled cable animation for AE.~
+~
+- Changed EIO cable size to 1.0, as per poll results~
+~
+- Increased chance for isolator consuming a bee to 50%.~
+~~~
+- Decreased nether platinum ore spawn rate.~
+~
+- Added GalacticCraft configs :)~
+~~~
+- Disabled MFR autospawning of Luggage, Travelling Trunks, Pechs, TF quest ram, AM2 bosses, and Robits.~
+~
+- Reduced hydrogen generator output. Buffed output of some of the other Mekanism generators.~
+~~~
+- Fixed GUI bug with Mek generators. Display is set to Joules now.~
+~
+- Disabled GT extruder due to Mekanism and Extra Utilities exploits.~
+~
+- Disabled oreDict of IC2 circuits <-> Mek circuits.~
+~~~
+- Stopped the breaking of nether portals by punching the portal~
+~
+- Replaced ingots w/ gears in some TE recipes.~
+~
+- Increased Bibliocraft xp cost, due to new found exploit.~
+~~~
+- Added some glass types to immibis microblock support. Thank you to brynjolf for that :).~
+~
+- Redid recipes for EnderStorage, all blocks and items now have harder recipes.~
+~~~
+- Some blocks may have updated in this transition. This is due to updating the universal configs set out by FTB. This was necessary and brings us that much closer to a full release <3. Enjoy the pack!~
+~~~
+TPPIv0.2.3~
+- Fixed splash fertilizer serum recipe~
+~
+- Fixed server jar
+~~~
+TPPIv0.2.2:~
+- Updated EnderIO to 0.8.0.215 Added advanced fluid conduit. Fixes some bugs including a crash with TE conduits.~
+~
+- Updated Mekanism to 6.0.0.242. Fixes some bugs.~
+~
+- Updated TPPItweaks to v0.8.3. Added removebooks command.~
+~~~
+- Should have fixed most fluid registry issues.~
+~
+- Added ruby->ruby dust recipe in the pulverizer.~
+~
+- Added woodchip->paper recipe.~
+~~~
+- Morph flight needs a wither kill again. Gave some uses to other morphs: hostile mobs of the same type do not attack you.~
+~
+- Removed the silly exploit with experience crops by removing the crops. Will be re-added 0.3.0.~
+~~~
+- Added charcoal block->1 coal compression recipe.~
+~
+- Removed second seed drop from magical crops. Added essence seed recipe.~
+~
+- Remove Digital Miner recipe (TEMPORARY)
+~~~
+- Removed the conversion loss with universal cables. Fixes unlimited power issue and IC2 machines exploding.~
+~
+- LP and AE no longer share power, because, well, LP does not use power.~
+~~~
+- Removed Nikolite from the nether. RP2 is officially dead. I am sorry for your loss.~
+~
+- Slightly reduced certus quartz generation rate.~
+~
+- Changed recipe for the lilypad of fertility.~
+~~~
+- Recipe for the autonomous activator now takes steel.~
+~
+- Mobs will no longer pick up dropped items. This prevents the long standing duping issue.~
+~~~
+- Re-added Rutile (titanium) to the worldgen from mariculture. Removed IBF requirement for smelting titanium dust, as titanium is no longer a limiting factor in GT recipes, because of the stainless steel introduction.~
+~~~
+- Removed titanium->chrome recipe in the molecular transformer.~
+~
+- Fixed yellorite recipe in the SAGmill~
+~~~
+- Added some recipes to the Mekanism enrichment chamber.~
+~
+- NOTE: the issue of balance with magical crops is being heavily addressed in 0.3.0 with the new release of the mod. These solutions are temporary. Remember: This is only a beta.~
+~~~
+TPPIv0.2.1:~
+- Updated Dimensional Anchors to 57.1.93~
+~
+- Added DragoAPI V15b (for LegacyCraft)~
+~
+- Downgraded gregtech to 4.07o. Fixes NEI strangeness and long startup time.~
+~~~
+- Downgraded immibis microblocks to 57.5.0. Fixes rare crash bug (temporary)~
+~
+- Added LegacyCraft V15. Fixes zombie lag.~
+~
+- Updated Mekanism (and Generators) to build 226. Fixes various bugs.~
+~
+- Update TPPITweaks to 0.8.1-41. Fixes GUI startup bug. Cheapen Atomic Disassembler recipe. Add message on /tppi download when all mods are installed.~
+~~~
+TPPIv0.2.0:~
+- Added ArmorStatusHUD and bspkrsCore~
+~
+- Updated Ars Magica 2 to v1.1.2b. Fixes several bugs.~
+~
+- Updated Big Reactors to v0.2.15a. Performance improvements and fixes some bugs.~
+~~~
+- Updated Carpenters Blocks to v2.0.2. Bugfixes and cleanups.~
+~
+- Updated Ender Prospecting to v1.0.1.6. Fixes mod ores.~
+~
+- Updated Ender IO to v0.7.2.190. Massive performance improvements.~
+~~~
+- Updated Engineers Toolbox to v1.1.7.2. Added Stirling Generator, Spinning Wheel, Pump, Mini Fluid Portal. Flashing blade and vacuum now require energy.~
+~
+- Updated Enhanced Portals 3 to vb4b. Added TE recipes. Removed vanilla recipes.~
+~~~
+- Updated Extra Cells to v1.6.7d. Added fluid storage monitor.~
+~
+- Updated Factorization to 0.8.29. Some recipe changes.~
+~~~
+- Updated GasCraft to v2.0.4.1. Added ash, nether plasma, plasma reactor module, nether plasma pockets.~
+~
+- Updated Gendustry to v1.0.3.41. Fixed crash.~
+~~~
+- Updated GregTech to v4.07x. NOTE: It is a known fact this increases load time. This is normal. Added coins, plastic hammer. Changed ore processing process-Check NEI (maximum efficiency is now Grinder->Thermal Centrifuge->Pulverizer/Universal Macerator.
+~~~
+- GT: Changed sugarcane recipe. To get 3 paper, use a vertical recipe instead. Dense plates now need a plate bender. Fixed several bugs.~
+~
+- Updated Hardcore Ender Expansion to v1.3.3. Added NEI compatibility, tweaked mob health.~
+~~~
+- Updated Immibis Core/Microblocks to 57.1.93/57.6.2. Fixes some crashes.~
+~
+- Updated IC2-exp to v2.0.380. Added a couple convenience recipes. Several bug fixes.~
+~~~
+- Updated Mekanism to v6.0.0.190. Massive performance improvements. Fixed several bugs. Added 4x/5x ore processing, balloons, atomic disassembler, and more.~
+~~~
+- Updated MFR to 2.7.5-352. Added repair-only mode for auto-anvil, plastic bag, sacred rubber sapling (only found in jungle temples), support for TC4 manapods and Project:RED dye trees. Changed some recipes. Fixed some bugs.~
+~~~
+- Updated MFFS to 3.6.2.9. Fixed a couple bugs.~
+~
+- Updated MPS to 0.10.0-92. Fixed texture issues.~
+~
+- Updated Mystcraft to 0.10.12.01. Added new writing desk model. ~
+~~~
+- Updated Open Blocks to 1.2.4. Fixed several bugs.~
+~
+- Downgraded Reliquary to 1.1. Now includes Alkahest stuffs and Java 6 support.~
+~
+- Updated Steves Factor Manager to A47. Crafting support and bug fixes.~
+~~~
+- Updated Tinkers Construct to 1.6.4-492. Fixed localization of the crafting station.~
+~
+- Updated TPPI Tweaks to v0.8.0. Added new mod documentation GUI. Read the welcome packet.~
+~~~
+- Updated several other core mods to match the new mod updates. Nothing special.~
+~~~
+Config/Modtweak Changes~
+- Removed steel from the induction smelter.~
+~
+- Added slight power conversion loss when using universal cable. For maximum efficiency, use the regular mods cables.~
+~~~
+- Major rebalance of all Mekanism machines and generators.~
+~
+- IC2 miners can now accept Lapotron Cystals.~
+~~~
+- Removed force shears to prevent entity crash between DC and TC4 until a fix is implemented. As a result, having to use all enchantments before upgrading the force tome is now disabled.~
+~
+- Several other DC balancing changes.~
+~~~
+- Decreased non-ore overworld worldgen.~
+~
+- Readded IC2 rubber trees to world generation.~
+~
+- Massively increased the cost of the Atomic Disassembler.~
+~~~
+- Added 3 copperdust+1 dirtyzincdust=2brass dust as a shapeless crafting recipe to continue to having avoid the bronze age (still optional, just not required). If you still find you need it, report it!~
+~~~
+- Disabled Mekanism cardboard box until it is balanced.
+~~~
+TPPIv0.1.2:~
+- Downgraded Denlib to 0.3.2~
+~
+- Removed Hats Mod~
+~
+- Updated Magic Bees from 2.1.9 to 2.1.11~
+~
+- Updated Calclavia core from 1.0.0.48 to 1.1.1.16~
+~~~
+- UpdatedMFFS from 3.6.1.313 to 3.6.2.7~
+~
+- Released updated server which should work without issue~
+~
+- Removed essence seeds from dropping from grass. All currently existing essence seeds will disappear from the world.~
+~~~
+- New TPPI Tweaks build with updated mod documentation~
+~
+- Mekanism Osmium should now generate in the world, will retrogen.~
+~
+- Reduced Emery Ore spawnrate~
+~
+- Fix AM2 Hud to actually be draggable~
+~~~
+TPPIv0.1.1:~
+- Downgraded MFFS for java 6 compat~
+~
+- Downgraded Calclavia core for java 6 compat~
+~
+- Updated TPPI-Tweaks for GUI fix~
+~~~
+- Add configs for some recipe tweaks in TPPI-Tweaks~
+~
+- Remove nether star from MPS tinker table recipe~
+~
+- Made Journeymap disabled by default (laggy on low-end PCs)~
+~

@@ -1,0 +1,222 @@
+[
+	{
+		"ingredients" : [
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "gearInvar" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" } ]
+		],
+		"result" : {
+			"oredictName" : "componentPlatingBasic"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "gemCrystalFlux" } ],
+			[ { "oredictName" : "gearElectrum" }, { "oredictName" : "gemCrystalFlux" } ],
+			[ { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "gemCrystalFlux" } ]
+		],
+		"result" : {
+			"oredictName" : "componentPlatingAdvanced"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ],
+			[ { "oredictName" : "gemCrystalFlux" }, { "unlocalizedName" : "item.redstoneChipset.2" }, { "oredictName" : "gemCrystalFlux" } ],
+			[ { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" } ]
+		],
+		"result" : {
+			"oredictName" : "componentControlCircuit"
+		},
+		"mirror" : true
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "componentPlatingBasic" } ]
+		],
+		"result" : {
+			"oredictName" : "ingotSteel",
+			"quantity" : 5
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "componentPlatingAdvanced" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "item.diamond",
+			"quantity" : 5
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "gemRuby" }, { "oredictName" : "gemPeridot" }, { "oredictName" : "gemSapphire" } ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "unlocalizedName" : "item.thermalexpansion.material.powerCoilGold" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"oredictName" : "componentLaserEmitter"
+		}
+	},
+	{
+		"ingredients" : [
+			[ null, { "oredictName" : "gemEmerald" }, null ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "oredictName" : "componentLaserEmitter" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
+			[ { "unlocalizedName" : "tile.obsidian" }, { "unlocalizedName" : "tile.obsidian" }, { "unlocalizedName" : "tile.obsidian" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "tile.tinkerTable"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotEnderium" } ],
+			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "item.powerArmorHelmet"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotEnderium" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "item.powerArmorChestplate"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotEnderium" }, null, { "oredictName" : "ingotEnderium" } ],
+			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "item.powerArmorLeggings"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ],
+			[ { "oredictName" : "ingotEnderium" }, null, { "oredictName" : "ingotEnderium" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "item.powerArmorBoots"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" }, null, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" } ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "oredictName" : "gemCrystalFlux" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" } ]
+		],
+		"result" : {
+			"unlocalizedName" : "item.powerFist"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "ingotLead" }, { "oredictName" : "ingotSilver" }, { "oredictName" : "ingotLead" } ],
+			[ { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" } ],
+			[ { "oredictName" : "ingotLead" }, { "oredictName" : "ingotSilver" }, { "oredictName" : "ingotLead" } ]
+		],
+		"result" : {
+			"oredictName" : "componentWiring",
+			"quantity" : 12
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "id" : 35 }, { "id" : 35 }, { "id" : 35 } ],
+			[  { "unlocalizedName" : "item.string" }, null, { "unlocalizedName" : "item.string" } ],
+			[ null, { "unlocalizedName" : "item.thermalexpansion.material.pneumaticServo" }, null ]
+		],
+		"result" : {
+			"oredictName" : "componentParachute"
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorHardened" }, { "oredictName" : "ingotSilver" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"oredictName" : "componentLVCapacitor"
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotElectrum" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotElectrumFlux" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorReinforced" }, { "oredictName" : "ingotElectrumFlux" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"oredictName" : "componentMVCapacitor"
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotPlatinum" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotEnderium" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorResonant" }, { "oredictName" : "ingotEnderium" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"oredictName" : "componentHVCapacitor"
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"oredictName" : "componentSolenoid"
+		}
+	},
+	{
+		"ingredients" : [
+			[  null, { "oredictName" : "glassHardened" }, { "oredictName" : "glassHardened" } ],
+			[  { "oredictName" : "glassHardened" }, { "oredictName" : "glassHardened" }, { "oredictName" : "componentSolenoid" } ],
+			[  { "oredictName" : "glassHardened" }, null, null ]
+		],
+		"result" : {
+			"oredictName" : "componentGliderWing"
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "oredictName" : "componentSolenoid" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentSolenoid" } ],
+			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.thermalexpansion.material.pneumaticServo" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "componentWiring" } ]
+		],
+		"result" : {
+			"oredictName" : "componentServo"
+		}
+	},
+	{
+		"ingredients" : [
+			[  { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "componentWiring" }, { "oredictName" : "gemCrystalFlux" } ],
+			[  { "oredictName" : "componentSolenoid" }, { "unlocalizedName" : "item.thermalexpansion.component.tesseractFrameFull" }, { "oredictName" : "componentSolenoid" } ],
+			[  null, { "oredictName" : "ingotPlatinum" }, null ]
+		],
+		"result" : {
+			"oredictName" : "componentFieldEmitter"
+		},
+		"mirror" : true
+	},
+	{
+		"ingredients" : [
+			[  null, { "oredictName" : "componentFieldEmitter" }, { "oredictName" : "ingotEnderium" } ],
+			[  { "oredictName" : "ingotInvar" }, { "oredictName" : "componentHVCapacitor" }, null],
+			[  { "oredictName" : "ingotPlatinum" }, { "oredictName" : "componentFieldEmitter" }, { "oredictName" : "ingotInvar" } ]
+		],
+		"result" : {
+			"oredictName" : "componentIonThruster"
+		}
+
+	}
+]
