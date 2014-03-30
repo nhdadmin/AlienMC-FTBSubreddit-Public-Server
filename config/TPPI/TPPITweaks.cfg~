@@ -113,7 +113,7 @@ item {
     B:disableCardboardBox=false
 
     # Remove the recipe for the digital miner (not really any reason to do this now but I'm not deleting code)
-    B:disableDigitalMiner=true
+    B:disableDigitalMiner=false
 
     # Makes the recipe for the Atomic Disassembler much more difficult
     B:harderAtomicDisassembler=true

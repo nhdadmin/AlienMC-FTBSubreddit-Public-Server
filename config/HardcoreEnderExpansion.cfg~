@@ -42,7 +42,7 @@ block {
 general {
     B:enableEndermapocalypse=false
     B:enableMusic=true
-    B:enableTempleCaller=false
+    B:enableTempleCaller=true
     B:enableUpdateNotifications=false
     B:gooBattlesWater=true
     B:overpoweredMobs=false

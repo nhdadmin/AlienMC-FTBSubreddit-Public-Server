@@ -80,7 +80,7 @@ general {
     B:enableCraftingITnt=true
 
     # Enable crafting of nukes
-    B:enableCraftingNuke=false
+    B:enableCraftingNuke=true
 
     # Enable crafting of rails out of bronze
     B:enableCraftingRail=true

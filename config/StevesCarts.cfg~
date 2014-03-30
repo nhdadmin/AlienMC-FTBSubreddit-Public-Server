@@ -37,7 +37,7 @@ enabledmodules {
     B:BridgeBuilder=true
     B:Cage=true
     B:CakeServer=true
-    B:ChunkLoader=false
+    B:ChunkLoader=true
     B:CleaningMachine=true
     B:CoalEngine=true
     B:Colorizer=true

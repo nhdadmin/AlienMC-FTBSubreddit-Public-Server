@@ -40,10 +40,10 @@ general {
     B:chunkloader.hideOtherPlayersLoadersInF9=false
 
     # Maximum number of chunks loaded by each player. Use -2 for unlimited.
-    I:chunkloader.maxChunksPerPlayer=9
+    I:chunkloader.maxChunksPerPlayer=-2
 
     # If true, chunkloaders placed by a player will only load chunks while that player is online.
-    B:chunkloader.requireOnline=true
+    B:chunkloader.requireOnline=false
     B:chunkloader.useFuel=false
     B:core.assumeIDResolver=true
 
@@ -76,10 +76,10 @@ item {
 
 logging {
     # Name of a file to keep updated with a list of all active chunk loaders. Blank for none.
-    S:chunkloader.listFileName=ImmbisActivechunkloaders.log
+    S:chunkloader.listFileName=
 
     # Name of a file to log creation, deletion and editing of chunk loaders to. Blank for none.
-    S:chunkloader.logFileName=Immbischunkloaders.log
+    S:chunkloader.logFileName=
 }
 
 
