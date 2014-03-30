@@ -18,7 +18,7 @@
 
   <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up!)</i> </li>
 
-  <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule (this means NO Anti-Afk setuos)</li>
+  <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule (this means NO Anti-Afk setups)</li>
   
   <li> Automated mining ONLY allowed in the Mining Age (EXCEPTION-2 ender quarries per town ONLY used in Deep Dark)</li>
   
