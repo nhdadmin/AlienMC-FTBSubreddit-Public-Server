@@ -36,6 +36,9 @@
 |Enderpump|Extra utilities|Removed via config|Bypasses chunkloading limit|
 |Rainmaker|Forestry|Removed via config|Makes it rain|
 |Temple Caller|Hardcore Ender Expansion|Disabled in recipear|Bypasses mytown permission|
-
+|Self Destruct System|Enginers Toolbox|Removed via config|Bypasses mytown permission|
+|PortaSpawner|MFR|Removed via config|Bypasses mytown permission|
+|ForceWrench|DartCraft|Removed via config|Bypasses mytown permission|
+|Particle Emitter|Ars Magica|Removed via config|Causes huge tps drops|
 **Items disabled in recipear are disabled by a thirdparty mod called Recipear**
-**Items removed via config are at times removed with minetweaker
+**Items removed via config are at times removed with minetweaker**
