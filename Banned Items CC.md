@@ -2,9 +2,10 @@
 <b>NAME | MOD </b>
 
 <ol>
+	<li><b>NAME | MOD </b> s</li>
 	<li><b>Ars Magica "Dig" spells</b> | Ars Magica 2 </li>
 	<li><b>Sigil of flat lands</b> | Ars Magica 2  </li>
-	<li><b>Cloud in Bootle</b> | Chisel  </li>
+	<li><b>Cloud in Botle</b> | Chisel  </li>
 	<li><b>ME Fluid Transition plane</b> | ExtraCells </li>
 	<li><b>Lacerator</b> | Factorisation </li>
 	<li><b>NeedleGun</b> | MFR </li>
@@ -42,5 +43,8 @@
 	<li><b>PortaSpawner</b> | MFR  </li>
 	<li><b>ForceWrench</b> | DartCraft  </li>
 	<li><b>Particle Emitter</b> | Ars Magica  </li>
+	<li><b>End Portals</b> | Minecraft </li>
+	<li><b>Diamond Dolly</b> | JABBA </li>
+	<li><b>MFR Chunk Loader</b> | MFR </li>
 	<li>More info at http://goo.gl/vkgfr1</li>
 </ol>

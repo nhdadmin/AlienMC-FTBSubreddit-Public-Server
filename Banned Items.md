@@ -40,5 +40,8 @@
 |PortaSpawner|MFR|Removed via config|Bypasses mytown permission|
 |ForceWrench|DartCraft|Removed via config|Bypasses mytown permission|
 |Particle Emitter|Ars Magica|Removed via config|Causes huge tps drops|
+|End Portals|Minecraft|Pending|Crashes Server|
+|Diamond Dolly|JABBA|Removed via config|Picks up vanilla spawners|
+|MFR Chunk Loader|MFR|Removed via config|Bypasses chunk loading limits|
 **Items disabled in recipear are disabled by a thirdparty mod called Recipear**
 **Items removed via config are at times removed with minetweaker**
