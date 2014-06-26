@@ -2,7 +2,7 @@
 <b>NAME | MOD </b>
 
 <ol>
-	<li><b>NAME | MOD </b> s</li>
+	<li><b>NAME | MOD </b> </li>
 	<li><b>Ars Magica "Dig" spells</b> | Ars Magica 2 </li>
 	<li><b>Sigil of flat lands</b> | Ars Magica 2  </li>
 	<li><b>Cloud in Botle</b> | Chisel  </li>
@@ -32,7 +32,7 @@
 	<li><b>Digital Miner</b> | Mekanism  </li>
 	<li><b>Awekend Ichorium Pickaxe</b> | Thaumic Tinkerer  </li>
 	<li><b>Awekend Ichorium Shovel</b> | Thaumic Tinkerer  </li>
-	<li><b>Awekend Ichorium Axe|Thaumic Tinkerer  </li>
+	<li><b>Awekend Ichorium Axe</b> |Thaumic Tinkerer  </li>
 	<li><b>Instabillity Orb</b> | Hardcore enderexpansion  </li>
 	<li><b>Sacred Rubber Sapling</b> | MFR </li>
 	<li><b>EnderQuarry</b> | Extra utilities  </li>
