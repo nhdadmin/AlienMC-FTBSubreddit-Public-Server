@@ -1,5 +1,4 @@
 # Configuration file
-
 ####################
 # achievement properties
 ####################
@@ -159,6 +158,18 @@ dimblacklist {
 
 
 ####################
+# drawbridge
+####################
+
+drawbridge {
+    # Add block or item IDs that should not be placed from the drawbridge
+    I:"Drawbridge Blacklist" <
+        2007
+     >
+}
+
+
+####################
 # environment checks
 ####################
 
@@ -237,6 +248,7 @@ looks {
     I:"Armor Pattern"=14025
     I:"Blank Patterns"=14019
     I:Buckets=14101
+    I:"Creative Modifier Item"=14120
     I:"Essence Crystal"=14114
     I:"Golden Head"=14113
     I:Jerky=14115

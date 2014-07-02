@@ -7,9 +7,9 @@ net.minecraft.tileentity.TileEntityFurnace
 net.minecraft.tileentity.TileEntityBeacon
 net.minecraft.tileentity.TileEntityDispenser
 net.minecraft.tileentity.TileEntityDropper
+#net.minecraft.tileentity.TileEntityMobSpawner
 net.minecraft.tileentity.TileEntityNote
 net.minecraft.tileentity.TileEntityRecordPlayer
-#net.minecraft.tileentity.TileEntityMobSpawner
 
 #DartCraft TileEntities.
 bluedart.tile.TileStorage
@@ -69,7 +69,7 @@ forestry.factory.gadgets.MachineStill
 forestry.factory.gadgets.MillRainmaker
 forestry.lepidopterology.gadgets.TileLepidopteristChest
 
-#IC2 TileEntities
+#IC2 TileEntities.
 ic2.core.block.generator.tileentity.TileEntityGenerator
 ic2.core.block.generator.tileentity.TileEntityGeoGenerator
 ic2.core.block.generator.tileentity.TileEntityRTGenerator
