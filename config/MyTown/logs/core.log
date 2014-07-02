@@ -1,0 +1,30 @@
+2014-07-02 09:02:22 [INFO] [MyTown] MCPC detected. Set up special command registration, just for it ;)
+2014-07-02 09:03:58 [INFO] [MyTown] ExtraEvents loaded
+2014-07-02 09:03:58 [INFO] [MyTown] Loaded
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module IndustrialCraft loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module Creeper loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module Mobs loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module TinkersConstruct loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module BuildCraft loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module ModularPowersuits loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module RailCraft loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module TNT loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module Erebus failed to load. (erebus.entity.EntityWebSling)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module Reliquary loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module MFR loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module ProjectileProtection loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module MinecartProtection loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module SteveCarts loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module ThaumCraft loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module ThermalExpansion loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module Mekanism failed to load. (mekanism.common.EntityObsidianTNT)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module FlansMod failed to load. (co.uk.flansmods.common.guns.EntityBullet)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module TwilightForest loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module LOTR failed to load. (lotr.common.LOTREntityOrcBomb)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module DubstepGun failed to load. (net.minecraft.saintspack.EntitySoundCube)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module TrainCraft failed to load. (src.train.common.entity.rollingStock.EntityTracksBuilder)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module FireBall loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module LycanitesMobs failed to load. (lycanite.lycanitesmobs.api.entity.EntityCreatureBase)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module PortalGun loaded.
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module TheMistsOfRioV failed to load. (sheenrox82.RioV.src.entity.projectile.EntityDarkMatter)
+2014-07-02 09:03:58 [INFO] [MyTown] [Prot]Module ComputerCraft loaded.

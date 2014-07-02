@@ -1,5 +1,8 @@
 Found ConfigField TileEntityRemover_Enabled
 Found ConfigField TileEntityTargetList
+<<<<<<< HEAD
+Found ConfigField creosote_fermentation
+=======
 Fluid: liquidessence
 Ore: dustVinteum
 Ore: gemBlueTopaz
@@ -2241,12 +2244,15 @@ Ore: cropPotato
 Ore: cropCarrot
 Fluid: peat
 Fluid: vegetable
+>>>>>>> TPPI-v1.0.1
 Setting up meta item: 4602:0 Blacksmithing Hammer
 Setting up meta item: 4603:0 Iron Ring
 Setting up meta item: 4600:0 Sugar Charcoal
 Setting up meta item: 4600:1 Sugar Coke
 Setting up meta item: 4600:2 Cactus Charcoal
 Setting up meta item: 4600:3 Cactus Coke
+<<<<<<< HEAD
+=======
 Fluid: molten redstone
 Fluid: molten conductive redmetal
 Ore: dustCopper
@@ -2550,3 +2556,4 @@ Ore: itemCharcoalSugar
 Ore: itemCokeSugar
 Ore: itemCharcoalCactus
 Ore: itemCokeCactus
+>>>>>>> TPPI-v1.0.1

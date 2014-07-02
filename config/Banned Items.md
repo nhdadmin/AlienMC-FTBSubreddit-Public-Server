@@ -25,13 +25,13 @@
 |Nuke	|IndustrialCraft 2	|Disabled in recipear	|Bypasses mytown permission|
 |Landmine	|Tinkers Construct	|Disabled in recipear	|Bypasses mytown permission|
 |Quarry Plus	|QuarryPlus	|Disabled in recipear	|Bypasses mytown permission|
-|Matter Cannon	|Applied energistics	|Disabled in recipear	|Bypasses mytown permission|
+|Matter Cannon	|Applied energistics	|Disabled in conifg	|Bypasses mytown permission|
 |Digital Miner	|Mekanism	|Disabled in recipear	|Bypasses mytown permission|
 |Awekend Ichorium Pickaxe	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
 |Awekend Ichorium Shovel	|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
 |Awekend Ichorium Axe|Thaumic Tinkerer	|Disabled in recipear	|Bypasses mytown permission|
 |Instabillity Orb	|Hardcore enderexpansion	|Disabled in recipear	|Bypasses mytown permission|
-|Sacred Rubber Sapling	|MFR	|Disabled in recipear & config|Bypasses mytown permission|
+|Sacred Rubber Sapling	|MFR	|Disabled in config|Bypasses mytown permission|
 |EnderQuarry|Extra utilities|Disabled in recipear & config|Bypasses mytown permission|
 |Enderpump|Extra utilities|Disabled in recipear & config|Bypasses chunkloading limit|
 |Rainmaker|Forestry|Disabled in recipear|Makes it rain|

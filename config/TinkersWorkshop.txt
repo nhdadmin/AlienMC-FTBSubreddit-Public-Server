@@ -1,5 +1,8 @@
 # Configuration file
+<<<<<<< HEAD
+=======
 
+>>>>>>> TPPI-v1.0.1
 ####################
 # achievement properties
 ####################
@@ -159,6 +162,21 @@ dimblacklist {
 
 
 ####################
+<<<<<<< HEAD
+# drawbridge
+####################
+
+drawbridge {
+    # Add block or item IDs that should not be placed from the drawbridge
+    I:"Drawbridge Blacklist" <
+        2007
+     >
+}
+
+
+####################
+=======
+>>>>>>> TPPI-v1.0.1
 # environment checks
 ####################
 
