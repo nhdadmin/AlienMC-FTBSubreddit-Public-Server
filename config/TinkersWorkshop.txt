@@ -1,4 +1,8 @@
 # Configuration file
+<<<<<<< HEAD
+=======
+
+>>>>>>> TPPI-v1.0.1
 ####################
 # achievement properties
 ####################
@@ -158,6 +162,7 @@ dimblacklist {
 
 
 ####################
+<<<<<<< HEAD
 # drawbridge
 ####################
 
@@ -170,6 +175,8 @@ drawbridge {
 
 
 ####################
+=======
+>>>>>>> TPPI-v1.0.1
 # environment checks
 ####################
 

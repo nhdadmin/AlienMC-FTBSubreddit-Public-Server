@@ -43,8 +43,11 @@ tile.mfr.machine.blockplacer.name = Block Placer
 tile.mfr.machine.mobcounter.name = Mob Counter
 tile.mfr.machine.steamturbine.name = Steam Turbine
 tile.mfr.machine.chunkloader.name = Chunk Loader
+<<<<<<< HEAD
 tile.mfr.machine.fountain.name = Fountain
 tile.mfr.machine.mobrouter.name = Mob Router
+=======
+>>>>>>> TPPI-v1.0.1
 
 tile.mfr.conveyor.default.name = Conveyor Belt
 tile.mfr.conveyor.white.name = Conveyor Belt (White)
@@ -118,8 +121,11 @@ tile.mfr.decorativebrick.snow_large.name = Large Snow Bricks
 tile.mfr.decorativebrick.prc.name = Programmable RedNet Controller Housing
 tile.mfr.decorativebrick.meat.raw.name = Raw Meat Block
 tile.mfr.decorativebrick.meat.cooked.name = Cooked Meat Block
+<<<<<<< HEAD
 tile.mfr.decorativebrick.pavedstone_large.name = Large Paved Stone Bricks
 tile.mfr.decorativebrick.brick_large.name = Large Bricks
+=======
+>>>>>>> TPPI-v1.0.1
 
 tile.mfr.decorativestone.black.smooth.name = Smooth Blackstone
 tile.mfr.decorativestone.black.cobble.name = Cobble Blackstone
@@ -144,7 +150,10 @@ tile.mfr.rubberwood.sapling.name = Rubber Sapling
 tile.mfr.rubberwood.sapling.massive.name = Sacred Rubber Sapling
 tile.mfr.rubberwood.log.name = Rubber Wood
 tile.mfr.rubberwood.leaves.name = Rubber Leaves
+<<<<<<< HEAD
 tile.mfr.rubberwood.leaves.dry.name = Dry Rubber Leaves
+=======
+>>>>>>> TPPI-v1.0.1
 
 tile.mfr.rail.cargo.dropoff.name = Cargo Dropoff Rail
 tile.mfr.rail.cargo.pickup.name = Cargo Pickup Rail
@@ -399,8 +408,11 @@ chat.info.mfr.rednet.connection.cableonly = Set side to cable-only connection mo
 
 chat.info.mfr.bag.stacksize = You can only open one bag at a time
 
+<<<<<<< HEAD
 chat.info.mfr.chunkloader.noticket = You have too many chunk loaders and this one cannot function.
 
+=======
+>>>>>>> TPPI-v1.0.1
 tip.info.mfr.cannotplace = Cannot place for %s more seconds.
 
 tip.info.mfr.holdShift1 = Hold

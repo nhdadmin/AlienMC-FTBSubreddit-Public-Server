@@ -57,6 +57,7 @@ found in the core file.
 </recipeGroup>
 -->
 
+<<<<<<< HEAD
 <SAGMillRecipes> 
 <recipeGroup name="EnderIO">
 	<recipe name="CoalOre" energyCost="320">
@@ -350,6 +351,16 @@ found in the core file.
     
     <!-- Metals -->
     <recipe name="OsmiumOre" energyCost="400">
+=======
+<SAGMillRecipes>
+
+    <recipeGroup name="BigReactors" enabled="false"/> 
+    
+    <recipeGroup name="Mekanism" >
+    
+    <!-- Metals -->
+    <recipe name="OsmiumOre" energyCost="360">
+>>>>>>> TPPI-v1.0.1
         <input>
             <itemStack oreDictionary="oreOsmium" />
         </input>
@@ -382,6 +393,7 @@ found in the core file.
     </recipe>
 </recipeGroup>
 
+<<<<<<< HEAD
 <recipeGroup name="IC2">
     <recipe name="Uranium Ore" energyCost="400">
       <input>
@@ -410,6 +422,12 @@ found in the core file.
     
     <!-- Metals -->
     <recipe name="NickelOre" energyCost="400">
+=======
+<recipeGroup name="Engineer's Toolbox">
+    
+    <!-- Metals -->
+    <recipe name="NickelOre" energyCost="360">
+>>>>>>> TPPI-v1.0.1
         <input>
             <itemStack oreDictionary="oreNickel" />
         </input>
@@ -419,7 +437,11 @@ found in the core file.
             chance="0.05" />
         </output>
     </recipe>
+<<<<<<< HEAD
     <recipe name="AluminumOre" energyCost="400">
+=======
+    <recipe name="AluminumOre" energyCost="360">
+>>>>>>> TPPI-v1.0.1
         <input>
             <itemStack oreDictionary="oreAluminum" />
         </input>
@@ -466,15 +488,26 @@ found in the core file.
     </recipe>
 </recipeGroup>
 
+<<<<<<< HEAD
 <recipeGroup name="BigReactors">
 <!-- Metals -->
        <recipe name="YelloriteOre" energyCost="400">
+=======
+<recipeGroup name="BigReactors2">
+<!-- Metals -->
+       <recipe name="YelloriteOre" energyCost="360">
+>>>>>>> TPPI-v1.0.1
          <input>
              <itemStack oreDictionary="oreYellorite" />
          </input>
          <output>
              <itemStack oreDictionary="dustYellorium" number="2" />
+<<<<<<< HEAD
              <itemStack oreDictionary="dustYellorium" number="1" chance="0.1" />
+=======
+             <itemStack oreDictionary="dustCyanite" number="1"
+                        chance="0.05" />
+>>>>>>> TPPI-v1.0.1
          </output>
        </recipe>
 
@@ -533,7 +566,11 @@ found in the core file.
       </input>
       <output>
         <itemStack oreDictionary="crystalCertusQuartz" />
+<<<<<<< HEAD
         <itemStack oreDictionary="dustCertusQuartz" chance="0.15" />
+=======
+        <itemStack oreDictionary="dustCertusQuartz" />
+>>>>>>> TPPI-v1.0.1
       </output>
     </recipe>
 
@@ -565,6 +602,7 @@ found in the core file.
       </output>
     </recipe>
   </recipeGroup>
+<<<<<<< HEAD
   
   
 <recipeGroup name="Nether Ores">
@@ -791,5 +829,7 @@ found in the core file.
     </recipe>
     
 </recipeGroup>
+=======
+>>>>>>> TPPI-v1.0.1
 
 </SAGMillRecipes>

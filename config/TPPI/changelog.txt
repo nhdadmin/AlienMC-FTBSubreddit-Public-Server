@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TPPIv1.0.4PreRelease~
 ~
 Important Info:~
@@ -205,6 +206,8 @@ Notes about updating~
 ~
 - Chisel blocks may disappear. This is unavoidable.~
 ~~~
+=======
+>>>>>>> TPPI-v1.0.1
 TPPIv1.0.1PreRelease~
 ~
 - Hotfix for broken libraries~
