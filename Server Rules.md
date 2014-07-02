@@ -10,7 +10,7 @@
 
   <li> <b>NO</b> - Griefing </li>
 
-  <li> <b>NO</b> - Use or possession of <b><a href="http://goo.gl/HGucv0">Banned Items</a></b> </li>
+  <li> <b>NO</b> - Use or possession/use of <b><a href="http://goo.gl/HGucv0">Banned Items</a></b> </li>
 
   <li> <b>NO</b> - Pumping in the Nether </li>
 
@@ -26,7 +26,7 @@
 
   <li> Have common sense </li>
 
-  <li> Admins hold the right to ban users on a case by case basis if any of these rules are broken </li>
+  <li> Admins hold the right to ban users on a case by case basis if any of these rules are broken</li>
 
   <li> Have Fun! </li>
 
