@@ -6,8 +6,6 @@
 |Ars Magica Daylight | Ars Magica 2 | Do Not Use| Grief |
 |Ars Magica Moonrise | Ars Magica 2 | Do Not Use| Grief |
 |Ars Magica Storm | Ars Magica 2 | Do Not Use| Grief |
-|Ars Magica Sigils of any kind	|Ars Magica 2	|Recipe Disabled|Server Lag|
-|Ars Magica Sigil Stand | Ars Magica 2 | Recipe Disabled | Server Lag|
 |Cloud in Bottle |Chisel	|Recipe Disabled	|Bypasses mytown permission|
 |NeedleGun	|MFR	|Disabled in config	|Bypasses mytown permission|
 |SPAMR Launcher	|MFR	|Disabled in config	|Bypasses mytown permission|
