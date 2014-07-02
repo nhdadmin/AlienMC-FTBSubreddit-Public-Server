@@ -45,5 +45,9 @@
 	<li><b>Particle Emitter</b> | Ars Magica  </li>
 	<li><b>End Portal Creation</b> | Magical Crops </li>
 	<li><b>Power Fist</b> | Modular Power Suits </li>
+<<<<<<< HEAD
+	<li><b>Sigil of flat lands</b> | Ars Magica 2  </li>
+=======
+>>>>>>> master
 	<li><b>Cloud in Botle</b> | Chisel  </li>
 </ol>

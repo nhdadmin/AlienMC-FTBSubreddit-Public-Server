@@ -11,7 +11,9 @@ Welcome to [/r/FeedTheBeast's](http://www.FeedTheBeast.reddit.com) Public Server
 
 *Server address:* ftb.alienmc.co - *Port:* 25565 (Defualt)
 
-*FTB Pack:* [Test Pack, Please Ignore (TPPI) - v0.3.0](http://TestPackPleaseIgnore.reddit.com)
+
+*FTB Pack:* [Test Pack, Please Ignore (TPPI) - v1.0.4](http://TestPackPleaseIgnore.reddit.com)
+=======
 
 *Mumble address:* [ftb.alienmc.co](mumble://ftb.alienmc.co)
 
