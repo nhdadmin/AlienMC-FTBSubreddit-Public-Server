@@ -1,8 +1,5 @@
 # Configuration file
-<<<<<<< HEAD
-=======
 
->>>>>>> TPPI-v1.0.1
 ####################
 # item
 ####################
@@ -14,15 +11,7 @@ item {
 
     feature {
         # This allows you to disable Florbs entirely. It also means that you actively dislike fun things.
-<<<<<<< HEAD
-<<<<<<< HEAD
-        B:Florb.Enable=false
-=======
         B:Florb.Enable=true
->>>>>>> TPPI-v1.0.1
-=======
-        B:Florb.Enable=false
->>>>>>> 4bda2f152f648d36dba09c6f1208a1bb329fc1eb
     }
 
 }
@@ -63,10 +52,6 @@ whitelist {
     B:fishfood=true
     B:fishoil=true
     B:fluidtnt=true
-<<<<<<< HEAD
-    B:fluidwitcheryhollowtears=true
-=======
->>>>>>> TPPI-v1.0.1
     B:fluidwitcheryspirit=true
     B:fluxgoo=true
     B:fuel=true

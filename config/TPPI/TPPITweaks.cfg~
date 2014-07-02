@@ -1,8 +1,5 @@
 # Configuration file
-<<<<<<< HEAD
-=======
 
->>>>>>> TPPI-v1.0.1
 ####################
 # block
 ####################
@@ -116,14 +113,8 @@ item {
     B:disableCardboardBox=false
 
     # Remove the recipe for the digital miner (not really any reason to do this now but I'm not deleting code)
-    B:disableDigitalMiner=true
+    B:disableDigitalMiner=false
 
-<<<<<<< HEAD
-    # Remove the recipe for universal cables.
-    B:disableUniversalCables=false
-
-=======
->>>>>>> TPPI-v1.0.1
     # Makes the recipe for the Atomic Disassembler much more difficult
     B:harderAtomicDisassembler=true
 
@@ -159,12 +150,6 @@ item {
     # Allow this mod to disable and enable Thaumic Tinkerer automatically
     B:autoEnableTT=false
 
-<<<<<<< HEAD
-    # Show the IRC integration startup GUI
-    B:showIRCGui=true
-
-=======
->>>>>>> TPPI-v1.0.1
     # Show the mariculture fix GUI on startup.
     B:showMaricultureGUI=false
 }
@@ -191,12 +176,6 @@ item {
     # Add a recipe for the essence seeds in magical crops
     B:addEssenceSeedRecipe=false
 
-<<<<<<< HEAD
-    # Make the unifier cheaper.
-    B:buffUnifierRecipe=true
-
-=======
->>>>>>> TPPI-v1.0.1
     # Remove the recipe for the Advanced Genetics auto output upgrade, because crashes.
     B:disableAGAutoOutputter=true
 
@@ -219,12 +198,6 @@ item {
     # will be cross-registered as each other in the ore dictionary.
     B:ic2TEGlassInterchangeability=true
 
-<<<<<<< HEAD
-    # Give some EnderIO recipes a buff as they are way too diffucult. Currently affects: basic capacitor, reservoir
-    B:makeEnderIOHardModeEasier=true
-
-=======
->>>>>>> TPPI-v1.0.1
     # Register essence ores from Magical Crops in the ore dictionary under "oreMCropsEssence" and "oreMCropsNetherEssence".
     B:registerMagicalCropsOre=true
 
@@ -239,18 +212,6 @@ item {
 
     # Make Dimensional Anchors' recipe closer to that of a chicken chunks chunk loader.
     B:tweakDARecipe=true
-<<<<<<< HEAD
-
-    # Alter the JABBA barrel recipe to be a little more complicated, leaving FZ barrels as a "low-tech" option
-    S:tweakJABBA=true
-
-    # Big Reactors' reactor glass recipe gives two reactor glass in exchange for the harder recipe.
-    B:twoReactorGlass=true
-
-    # Having fused quartz be registered under hardened glass doesn't make much sense. This fixes that.
-    B:unregisterFusedQuartz=true
-=======
->>>>>>> TPPI-v1.0.1
 }
 
 
@@ -269,11 +230,7 @@ item {
     S:packName=Test Pack Please Ignore
 
     # The version of the pack
-<<<<<<< HEAD
-    S:packVerison=1.0.4pre
-=======
     S:packVerison=1.0.1pre
->>>>>>> TPPI-v1.0.1
 }
 
 
@@ -294,12 +251,6 @@ item {
     # The title of the changelog
     S:changelogTitle=TPPI Changelog
 
-<<<<<<< HEAD
-    # Whether or not to give the player a welcome book on first spawn
-    B:doSpawnBook=true
-
-=======
->>>>>>> TPPI-v1.0.1
     # The file name of the file to read the mod documentation from (used to support translation). Do not include the extension in the filename (it is .txt)
     S:supportedModsFilename=SupportedMods
 }
