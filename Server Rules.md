@@ -2,7 +2,7 @@
 
 <ol>
 
-  <li> <b>NO</b> - Hacking, glitching, exploiting <i>(If you find a bug or exploit, please contact one of the admins immediatly)</i> </li>
+  <li> <b>NO</b> - Hacking, glitching, exploiting <i>(If you find a bug or exploit, please submit it to mineticket)</i></li>
 
   <li> <b>NO</b> - CC programs that create an infinite loop without a sleep function </li>
 
@@ -22,7 +22,7 @@
   
   <li> Automated mining (inc. mfr laser, turtles etc) ONLY allowed in the Mining Age (EXCEPTION-2 ender quarries per town ONLY used in Deep Dark)</li>
   
-  <li> Each person is only allowed <b>9</b> loaded chunks at one time ~ use Dimensional anchors <i>(Chunks only load when you are online)</i></li>
+  <li> Each person is only allowed <b>9</b> loaded chunks at one time and only while online~ use Dimensional anchors </li>
 
   <li> Have common sense (covers that not specifically stated)</li>
 
