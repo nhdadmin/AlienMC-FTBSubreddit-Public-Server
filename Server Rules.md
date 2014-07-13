@@ -16,15 +16,15 @@
 
   <li> <b>NO</b> - Mystcraft Ages </li>
 
-  <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up!)</i> </li>
+  <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up! this includes items and xp on the ground)</li>
 
   <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule (this means NO Anti-Afk setups)</li>
   
-  <li> Automated mining ONLY allowed in the Mining Age (EXCEPTION-2 ender quarries per town ONLY used in Deep Dark)</li>
+  <li> Automated mining (inc. mfr laser, turtlse etc) ONLY allowed in the Mining Age (EXCEPTION-2 ender quarries per town ONLY used in Deep Dark)</li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time <i>(Chunks only load when you are online)</i></li>
 
-  <li> Have common sense </li>
+  <li> Have common sense (covers that not specifically stated)</li>
 
   <li> Admins hold the right to ban users on a case by case basis if any of these rules are broken</li>
 
