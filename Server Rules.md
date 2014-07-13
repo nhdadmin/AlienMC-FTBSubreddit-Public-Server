@@ -22,7 +22,7 @@
   
   <li> Automated mining (inc. mfr laser, turtlse etc) ONLY allowed in the Mining Age (EXCEPTION-2 ender quarries per town ONLY used in Deep Dark)</li>
   
-  <li> Each person is only allowed <b>9</b> loaded chunks at one time <i>(Chunks only load when you are online)</i></li>
+  <li> Each person is only allowed <b>9</b> loaded chunks at one time ~ use Dimensional anchors <i>(Chunks only load when you are online)</i></li>
 
   <li> Have common sense (covers that not specifically stated)</li>
 
