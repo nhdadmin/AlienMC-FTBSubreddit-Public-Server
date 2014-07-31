@@ -41,5 +41,6 @@
 |No Vanilla Spawner Manipulation | Vanilla | Don't do it | Grief|
 |Diamond Dolly | JABBA | Recipe Disabled | Picks up Vanilla Spawners
 |Wooden Buckets | Forestry | Recipe Disabled | Bypasses No Water in Nether |
-|MineFactory Reloaded Chunkloader | MFR | Recipe Disabled | Bypasses Chunk Limits
-
+|MineFactory Reloaded Chunkloader | MFR | Recipe Disabled | Bypasses Chunk Limits|
+|Universal Cables (all tiers)| Mekanism | Recipe Disabled | Deadlocks server|
+|TE Conduits/Ducts (all)| Thermal Expansion | Recipe Disabled | Crashes server|

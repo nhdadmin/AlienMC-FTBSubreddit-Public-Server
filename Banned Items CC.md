@@ -47,4 +47,6 @@
 	<li><b>Power Fist</b> | Modular Power Suits </li>
 	<li><b>Sigil of flat lands</b> | Ars Magica 2  </li>
 	<li><b>Cloud in Botle</b> | Chisel  </li>
+	<li><b>Universal Cables (all tiers)</b> | Mekanism </li>
+	<li><b>TE Conduits/Ducts (all)</b> | Thermal Expansion </li>
 </ol>
