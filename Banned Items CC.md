@@ -2,7 +2,8 @@
 <b>NAME | MOD </b>
 
 <ol>
-	<li><b>NAME | MOD </b> </li>
+	<li><b>Banned Items</b></li>
+	<li><b>NAME </b>| MOD</li>
 	<li>Complete list at http://goo.gl/MVjx1D</li>
 	<li><b>Ars Magica "Dig" spells</b> | Ars Magica 2 </li>
 	<li><b>ME Fluid Transition plane</b> | ExtraCells </li>
