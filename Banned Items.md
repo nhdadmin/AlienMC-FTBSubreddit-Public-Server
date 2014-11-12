@@ -1,11 +1,5 @@
 |NAME| MOD| FIX| REASON|
 |--------------------------|--------------------------|---------------------------------------|--------------------------|
-|Ars Magica Dig	|Ars Magica 2	|Removed via config	|Bypasses mytown permission|
-|Ars Magica Banish Rain | Ars Magica 2 | Do Not Use| Grief |
-|Ars Magica Blizzard| Ars Magica 2 | Do Not Use| Grief |
-|Ars Magica Daylight | Ars Magica 2 | Do Not Use| Grief |
-|Ars Magica Moonrise | Ars Magica 2 | Do Not Use| Grief |
-|Ars Magica Storm | Ars Magica 2 | Do Not Use| Grief |
 |Cloud in Bottle |Chisel	|Recipe Disabled	|Bypasses mytown permission|
 |NeedleGun	|MFR	|Disabled in config	|Bypasses mytown permission|
 |SPAMR Launcher	|MFR	|Disabled in config	|Bypasses mytown permission|
