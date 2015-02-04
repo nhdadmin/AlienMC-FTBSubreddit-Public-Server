@@ -1,6 +1,6 @@
 #Requirements for membership
 
-* A Verified [Mineticket](http://mineticket.io/) account
+* A Verified [Mineticket](http://mineticket.io/) account (Not required)
 
 * Advance up a tech tree or an awe inspiring build
 
