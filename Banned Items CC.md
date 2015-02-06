@@ -5,5 +5,5 @@
 	<li><b>Banned Items</b></li>
 	<li><b>NAME </b>| MOD</li>
 	<li>Complete list at http://goo.gl/MVjx1D</li>
-	<li><b>Nuke</b> | IndustrialCraft 2  </li>
+	<li><b>Stupidity</b> | Real Life </li>
 </ol>
