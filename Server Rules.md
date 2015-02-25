@@ -21,6 +21,8 @@
   <li> Automated mining (inc. mfr laser, turtles etc) ONLY allowed in the Deep Dark (<b>ONLY</b>-2 ender quarries per town)</li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time and only while online~ use Dimensional anchors </li>
+  
+  <li> Don't type like a dummy. You have a keyboard, not a controller. </li>
 
   <li> Have common sense (covers that not specifically stated)</li>
 
