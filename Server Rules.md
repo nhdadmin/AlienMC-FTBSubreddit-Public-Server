@@ -18,7 +18,7 @@
 
   <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule (this means NO Anti-Afk setups)</li>
   
-  <li> Automated mining (inc. mfr laser, turtles etc) ONLY allowed in the Deep Dark (<b>ONLY</b>-2 ender quarries per town)</li>
+  <li> Automated mining (inc. mfr laser, turtles etc) ONLY allowed in the Deep Dark and the Bedrock Dimension (<b>ONLY</b>-2 ender quarries per town)</li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time and only while online~ use Dimensional anchors </li>
   
