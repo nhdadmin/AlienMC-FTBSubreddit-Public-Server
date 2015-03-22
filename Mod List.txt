@@ -1,0 +1,99 @@
+Advanced Repulsion Systems
+Advanced Machines
+Applied Energistics 2
+asielib
+BiblioCraft
+Big Reactors
+Biomes O` Plenty
+Blood Magic: Alchemical Wizardry
+Botania
+BuildCraft
+BuildCraft Compat
+Carpenter`s Blocks
+ChickenChunks
+Chisel 2
+CodeChicken Core
+CoFH Core
+CoFHLib
+Compact Solar Arrays
+ComputerCraft
+Computronics
+Cosmetic Armor
+Dimensional Anchors
+Ender IO
+EnderStorage
+EnhancedPortals
+Equivalent Exchange 3
+ExtraCells
+Extra Utilities
+FastCraft
+Flat Signs
+Forbidden Magic
+Forestry for Minecraft
+FoxLib
+Funky Locomotion
+Graviation Suite
+Hats
+HatStand
+Nuclear Control 2
+iChunUtil
+Iguana Tinker Tweaks
+In-Game wiki Mod
+Immibis Core
+IndustrialCraft 2
+Inventory Tweaks
+Iron Chest
+JABBA
+JourneyMap
+Logistics Pipes
+Mantle
+Mekanism
+MekanismGenerators
+MekanismTools
+MineFactory Reloaded
+MineTweaker 3
+MobiusCore
+ModTweaker
+Morph
+NEI Addons
+NEI Plugins Unofficial
+Nether Ores
+Not Enough Items
+ObsidiPlates
+OpenBlocks
+OpenComputers
+OpenEye
+OpenMods
+Opis
+PneumaticCraft
+ProjectE
+ProjectRed
+ProjectRed-Compatibility
+ProjectRed-Transmission
+ProjectRed-Illumination
+ProjectRed-Expansion
+ProjectRed-Exploration
+Railcraft
+Redstone Arsenal
+Reliquary
+Statues
+Steve`s Carts 2
+Steve`s Factory Manager
+Sync
+Tails
+Tinkers` Construct
+Thaumcraft
+Thaumic Tinkerer
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Translocator
+ttCore
+The Twilight Forest
+Waila
+WAILA Plugins
+WR-CBE Core
+Baubles
+Forge Multipart
+libsandstone
+MrTJPCore
