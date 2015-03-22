@@ -1,9 +1,15 @@
 Advanced Repulsion Systems
 Advanced Machines
+Advanced Solar Panels
+Another One Bites The Dust
 Applied Energistics 2
+Aroma1997Core
 asielib
+BD Lib
+Better Title Screen
 BiblioCraft
 Big Reactors
+Binnie Core
 Biomes O` Plenty
 Blood Magic: Alchemical Wizardry
 Botania
@@ -14,24 +20,29 @@ ChickenChunks
 Chisel 2
 CodeChicken Core
 CoFH Core
-CoFHLib
 Compact Solar Arrays
 ComputerCraft
-Computronics
 Cosmetic Armor
+Decocraft
+Dense Ores
 Dimensional Anchors
 Ender IO
 EnderStorage
+EnderTech
+Ender Zoo
 EnhancedPortals
 Equivalent Exchange 3
 ExtraCells
+ExtraTiC
 Extra Utilities
 FastCraft
+Fast Leaf Decay
 Flat Signs
 Forbidden Magic
 Forestry for Minecraft
 FoxLib
 Funky Locomotion
+GenDustry
 Graviation Suite
 Hats
 HatStand
@@ -41,11 +52,13 @@ Iguana Tinker Tweaks
 In-Game wiki Mod
 Immibis Core
 IndustrialCraft 2
+InfiniBows
 Inventory Tweaks
 Iron Chest
 JABBA
 JourneyMap
 Logistics Pipes
+Magic Bees
 Mantle
 Mekanism
 MekanismGenerators
@@ -55,16 +68,22 @@ MineTweaker 3
 MobiusCore
 ModTweaker
 Morph
+Natura
 NEI Addons
+NEI Integration
 NEI Plugins Unofficial
 Nether Ores
 Not Enough Items
+NotEnoughKEys
+Not Enough Resources
 ObsidiPlates
 OpenBlocks
 OpenComputers
 OpenEye
 OpenMods
+OpenPeripheralCore
 Opis
+Pam`s HarvestCraft
 PneumaticCraft
 ProjectE
 ProjectRed
@@ -76,22 +95,32 @@ ProjectRed-Exploration
 Railcraft
 Redstone Arsenal
 Reliquary
+RFTools
+Runic Dungeons
+Simply Jetpacks
+Solar Expansion
 Statues
 Steve`s Carts 2
 Steve`s Factory Manager
+Steve`s Workshop
 Sync
 Tails
 Tinkers` Construct
 Thaumcraft
+Thaumic Energistics
+Thaumic Exploration
 Thaumic Tinkerer
 Thermal Dynamics
 Thermal Expansion
 Thermal Foundation
+TiC Tooltips
+Tinkers` Mechworks
 Translocator
 ttCore
 The Twilight Forest
 Waila
-WAILA Plugins
+Waila Harvestability
+Wawla
 WR-CBE Core
 Baubles
 Forge Multipart
