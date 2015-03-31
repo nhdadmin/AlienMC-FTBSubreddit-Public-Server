@@ -11,5 +11,5 @@
   <li>Website: http://alienmc.co/</li>
   <li>IRC Channel: [#AlienMC (Freenode)](http://goo.gl/uf3Dou)</li>
   <li>Github: https://github.com/AlienMC</li>
-</ol
+</ol>
 <h1>This server is in no way affiliated with the developers of the Feed The Beast Mod Pack.</h1>
