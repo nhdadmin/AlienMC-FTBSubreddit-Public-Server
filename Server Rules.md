@@ -14,7 +14,7 @@
 
   <li> <b>NO</b> - Pumping in the Nether </li>
 
-  <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up! this includes items and xp on the ground)</li>
+  <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up! this includes items and xp on the ground)</i></li>
 
   <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule (this means NO Anti-Afk setups)</li>
   
