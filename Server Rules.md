@@ -10,13 +10,15 @@
 
   <li> <b>NO</b> - Griefing </li>
 
-  <li> <b>NO</b> - Use or possession/use of <b><a href="http://goo.gl/HGucv0">Banned Items</a></b> </li>
+  <li> <b>NO</b> - Possession/use of <b><a href="http://goo.gl/HGucv0">Banned Items</a></b> </li>
 
   <li> <b>NO</b> - Pumping in the Nether </li>
 
   <li> <b>NO</b> - Entity storage <i>(Make sure your farms don't back up! this includes items and xp on the ground)</li>
 
   <li> <b>NO</b> - Afking for long periods to get around the chunk loading rule (this means NO Anti-Afk setups)</li>
+  
+  <li> <b>NO</b> -Sharing of portals to dimensions that AREN'T at Spawn.
   
   <li> Automated mining (inc. mfr laser, turtles etc) ONLY allowed in the Mining World, Deep Dark, and Bedrock Dimensions (<b>ONLY</b>-2 ender quarries per town)</li>
   
