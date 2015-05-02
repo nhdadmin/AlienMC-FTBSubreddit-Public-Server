@@ -20,7 +20,7 @@
   
   <li> <b>NO</b> -Sharing of portals to dimensions that AREN'T at Spawn.
   
-  <li> Automated mining (inc. mfr laser, turtles etc) ONLY allowed in the Mining World, Deep Dark, and Bedrock Dimensions (<b>ONLY</b>-2 ender quarries per town)</li>
+  <li> <b>NO</b> - Automated mining in the Overworld, Nether, or Twilight Forest./li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time and only while online</li>
   
