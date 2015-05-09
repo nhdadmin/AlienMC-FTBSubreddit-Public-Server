@@ -20,7 +20,7 @@
   
   <li> <b>NO</b> -Sharing of portals to dimensions that AREN'T at Spawn.
   
-  <li> <b>NO</b> - Automated mining in the Overworld, Nether, or Twilight Forest./li>
+  <li> <b>NO</b> - Automated mining in the Overworld, Nether, or Twilight Forest.</li>
   
   <li> Each person is only allowed <b>9</b> loaded chunks at one time and only while online</li>
   
