@@ -9,7 +9,7 @@
   <li>FTB Pack: [AlienMC Pack - V1.3.1](http://reddit.com/r/AlienMCPack)</li>
   <li>Mumble address: [alienmc.co](mumble://alienmc.co)</li>
   <li>Website: http://alienmc.co/</li>
-  <li>IRC Channel: [#AlienMC (Freenode)](http://goo.gl/uf3Dou)</li>
+  <li>Slack: http://alienmc.co/slack/</li>
   <li>Github: https://github.com/AlienMC</li>
 </ol>
 <h1>This server is in no way affiliated with the developers of the Feed The Beast Mod Pack.</h1>
