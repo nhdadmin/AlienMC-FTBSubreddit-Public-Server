@@ -5,7 +5,7 @@
 <h1>/r/FeedTheBeast Server Info</h1>
 <ol>
   <li>AlienMC Subreddit:* [/r/AlienMC](http://www.reddit.com/r/AlienMC)</li>
-  <li>Server address: alienmc.co - Port: 25565 (Defualt)</li>
+  <li>Server address: alienmc.co - Port: 25565 (Default)</li>
   <li>FTB Pack: [AlienMC Pack - V1.3.4](http://reddit.com/r/AlienMC)</li>
   <li>Mumble address: alienmc.co</li>
   <li>Website: http://alienmc.co/</li>
