@@ -5,6 +5,8 @@ Another One Bites The Dust
 Applied Energistics 2
 Aroma1997Core
 asielib
+
+Baubles
 BD Lib
 Better Title Screen
 BiblioCraft
@@ -15,6 +17,7 @@ Blood Magic: Alchemical Wizardry
 Botania
 BuildCraft
 BuildCraft Compat
+
 Carpenter`s Blocks
 ChickenChunks
 Chisel 2
@@ -23,9 +26,11 @@ CoFH Core
 Compact Solar Arrays
 ComputerCraft
 Cosmetic Armor
+
 Decocraft
 Dense Ores
 Dimensional Anchors
+
 Ender IO
 EnderStorage
 EnderTech
@@ -35,18 +40,22 @@ Equivalent Exchange 3
 ExtraCells
 ExtraTiC
 Extra Utilities
+
 FastCraft
 Fast Leaf Decay
 Flat Signs
 Forbidden Magic
 Forestry for Minecraft
+Forge Multipart
 FoxLib
 Funky Locomotion
+
 GenDustry
 Graviation Suite
+
 Hats
 HatStand
-Nuclear Control 2
+
 iChunUtil
 Iguana Tinker Tweaks
 In-Game wiki Mod
@@ -55,9 +64,13 @@ IndustrialCraft 2
 InfiniBows
 Inventory Tweaks
 Iron Chest
+
 JABBA
 JourneyMap
+
+libsandstone
 Logistics Pipes
+
 Magic Bees
 Mantle
 Mekanism
@@ -68,6 +81,8 @@ MineTweaker 3
 MobiusCore
 ModTweaker
 Morph
+MrTJPCore
+
 Natura
 NEI Addons
 NEI Integration
@@ -76,6 +91,8 @@ Nether Ores
 Not Enough Items
 NotEnoughKEys
 Not Enough Resources
+Nuclear Control 2
+
 ObsidiPlates
 OpenBlocks
 OpenComputers
@@ -83,6 +100,7 @@ OpenEye
 OpenMods
 OpenPeripheralCore
 Opis
+
 Pam`s HarvestCraft
 PneumaticCraft
 ProjectE
@@ -92,11 +110,13 @@ ProjectRed-Transmission
 ProjectRed-Illumination
 ProjectRed-Expansion
 ProjectRed-Exploration
+
 Railcraft
 Redstone Arsenal
 Reliquary
 RFTools
 Runic Dungeons
+
 Simply Jetpacks
 Solar Expansion
 Statues
@@ -104,6 +124,7 @@ Steve`s Carts 2
 Steve`s Factory Manager
 Steve`s Workshop
 Sync
+
 Tails
 Tinkers` Construct
 Thaumcraft
@@ -118,11 +139,8 @@ Tinkers` Mechworks
 Translocator
 ttCore
 The Twilight Forest
+
 Waila
 Waila Harvestability
 Wawla
 WR-CBE Core
-Baubles
-Forge Multipart
-libsandstone
-MrTJPCore

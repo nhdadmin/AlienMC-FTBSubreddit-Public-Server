@@ -66,8 +66,6 @@ KitchenCraft-combo v0.0.1-57
 Lib Sandstone v1.0.0
 Logistics Pipes v0.8.3.118
 Magic Bees v2.2.3
-Malisis Core v0.11.4
-Malisis Doors 1.6
 Mantle v0.3.2.187
 Mekanism v8.1.0.TPPIEdition
 Mekanism Generators v8.1.1.225
@@ -75,12 +73,10 @@ MineFactory Reloaded v2.8.0-104
 MineTweaker 3 v3.0.9C
 MmmMmmMmmMmm v1.6
 Mobius Core v1.2.5
-ModpackTweaks v1.2.0-24
 ModularArmour v1.0.4-27
 ModTweaker2 v0.8.0
 MoreChisels v1.0-20
 Morph v0.9.1
-Mystcraft 0.11.5.00
 Natura v98.6a6cca1
 NEI Addons v1.12.6.18
 NEI Integration v1.0.9
@@ -100,8 +96,6 @@ Redstone Arsenal v1.1.0-80
 Refined Relocation v1.0.8a
 Reliquary v1.2.257
 Sanguimancy v1.1.9-26
-ServerTools BACKUP v2.2.0.24
-ServerTools CORE v2.2.0.79
 Steves Carts 2 v2.0.0b18
 Steves Factory Manager vA93
 Storage Drawers v1.3.9
@@ -126,7 +120,6 @@ Waila v1.5.10
 Waila Plugins v0.0.1-14
 Wawla v1.2.1
 Wireless Redstone v1.4.1.9
-Witchery v0.24.1
 Xaero's Minimap v1.4.1.3
 Ztones v2.2.1
 
