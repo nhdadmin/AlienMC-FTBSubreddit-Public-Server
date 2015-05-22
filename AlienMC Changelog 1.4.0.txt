@@ -35,7 +35,6 @@ EnderStorage
 EnderTech
 Ender Zoo
 EnhancedPortals
-Equivalent Exchange 3
 ExtraCells
 ExtraTiC
 Extra Utilities
@@ -147,6 +146,9 @@ Sanguimancy
 TPPI-Tweaks
 Tinker's Steelworks
 Ztones
+
+Temporarily Removed until bugs fixed:
+Equivalent Exchange 3
 
 Removed:
 ProjectE
